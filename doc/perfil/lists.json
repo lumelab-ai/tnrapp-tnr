@@ -1,0 +1,2806 @@
+{
+  "lists" : [
+    {
+      "createdAt" : "2026-07-13T18:24:45.747Z",
+      "items" : [
+        {
+          "addedAt" : "2026-07-13T22:20:26.694Z",
+          "listItemId" : "f3c84c01-716e-46a3-bfb8-2e16c56a195f",
+          "order" : 0,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/mCICnh7QBH0gzYaTQChBDDVIKdm.jpg",
+            "title" : "Clube da Luta",
+            "tmdbId" : 550,
+            "year" : "1999"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.701Z",
+          "listItemId" : "e4817ba1-7cb4-486b-a32f-85114dde6355",
+          "order" : 1,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/kXk5veq5oOh6SefMyXq6xtUBevw.jpg",
+            "title" : "Aftersun",
+            "tmdbId" : 965150,
+            "year" : "2022"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.707Z",
+          "listItemId" : "007dd374-8996-4beb-aa01-83bdc2895ef0",
+          "order" : 2,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/uWwgb89vSbNNtSPCpIKdbxqi5if.jpg",
+            "title" : "Encanto",
+            "tmdbId" : 568124,
+            "year" : "2021"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.713Z",
+          "listItemId" : "e51e7882-0a68-41a9-8067-01b67c0acfc4",
+          "order" : 3,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/meqKIZTsdSlbvv47uxvJH7Jcr7H.jpg",
+            "title" : "Os Fabelmans",
+            "tmdbId" : 804095,
+            "year" : "2022"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.719Z",
+          "listItemId" : "8b724f3a-f1b7-4d79-ac50-5ff129f5d5a6",
+          "order" : 4,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/fGS1HtHWngXyw5k9Zs2dVH8HuzL.jpg",
+            "title" : "Beau Tem Medo",
+            "tmdbId" : 798286,
+            "year" : "2023"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.725Z",
+          "listItemId" : "2b4f5799-4711-42cb-bbf8-64d4bdaea48d",
+          "order" : 5,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/czVBkHRaZu8rOnCNTd0t7EHYj97.jpg",
+            "title" : "Tempo",
+            "tmdbId" : 631843,
+            "year" : "2021"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.731Z",
+          "listItemId" : "64830f14-a821-4834-bbed-84f8279e72b4",
+          "order" : 6,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/9ShEHTKPMnRJnh05vzCnsF4YMFb.jpg",
+            "title" : "O Peso do Talento",
+            "tmdbId" : 648579,
+            "year" : "2022"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.737Z",
+          "listItemId" : "39927ae1-d19e-4f74-bcc6-cb37035c2b05",
+          "order" : 7,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/nNPuuybpp52aABBy59V5Q78xkLh.jpg",
+            "title" : "Ruído Branco",
+            "tmdbId" : 744594,
+            "year" : "2022"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.743Z",
+          "listItemId" : "e624649a-e015-4942-957b-2ed38e3e2dcd",
+          "order" : 8,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+            "title" : "Weird: The Al Yankovic Story",
+            "tmdbId" : 928344,
+            "year" : "2022"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.749Z",
+          "listItemId" : "5f1dbba0-f11b-4390-99cc-3f532c7d554b",
+          "order" : 9,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/kN3WwFUTvhYsLudncZlEgeh1fCu.jpg",
+            "title" : "Ingresso Para o Paraíso",
+            "tmdbId" : 800939,
+            "year" : "2022"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.755Z",
+          "listItemId" : "31684b4b-66c2-4522-bd07-d62f0aedef0d",
+          "order" : 10,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/tqlmLBt2i5SHNpXEj2nqk10Crwa.jpg",
+            "title" : "Cisne Negro",
+            "tmdbId" : 44214,
+            "year" : "2010"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.761Z",
+          "listItemId" : "beb3292c-aba6-4b29-bbba-8aacf081d403",
+          "order" : 11,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/zqbwK2ugTPauBQwzcNAM3PxVoww.jpg",
+            "title" : "Brilho Eterno de uma Mente sem Lembranças",
+            "tmdbId" : 38,
+            "year" : "2004"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.767Z",
+          "listItemId" : "b9c1a324-e71f-4eb4-83eb-4e21ba65b3fe",
+          "order" : 12,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
+            "title" : "O Poderoso Chefão",
+            "tmdbId" : 238,
+            "year" : "1972"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.773Z",
+          "listItemId" : "9127ea5d-3d4b-4950-ac64-73834c77e1d9",
+          "order" : 13,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/pI6bCgmnvodCSUNfYMDg4QWiJmK.jpg",
+            "title" : "O Homem dos Sonhos",
+            "tmdbId" : 823482,
+            "year" : "2023"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.779Z",
+          "listItemId" : "13138412-55e2-413e-aebd-b7c422d2ac61",
+          "order" : 14,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/cUiXj9cGE7xjAm9L23jSKPnxs8g.jpg",
+            "title" : "O Lagosta",
+            "tmdbId" : 254320,
+            "year" : "2015"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.785Z",
+          "listItemId" : "b861bb0a-a3a1-4e8a-84d8-224b957b74fb",
+          "order" : 15,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/nLAE1zU4jLX3qxx4d87Nz7DsqQg.jpg",
+            "title" : "Cidade dos Sonhos",
+            "tmdbId" : 1018,
+            "year" : "2001"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.791Z",
+          "listItemId" : "4dca9937-a493-4cc6-9633-fa2685cde028",
+          "order" : 16,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/1Nlq42CnLmkXzj7TN58c3VjlwLn.jpg",
+            "title" : "Veludo Azul",
+            "tmdbId" : 793,
+            "year" : "1986"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.798Z",
+          "listItemId" : "9c454f79-371e-4716-be24-a6d99a066d20",
+          "order" : 17,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/g0s9Yb5tfka73UKxFAPxO9lPHBW.jpg",
+            "title" : "O Pianista",
+            "tmdbId" : 423,
+            "year" : "2002"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.804Z",
+          "listItemId" : "c14ad2ab-a832-4775-bbc1-5750c7bca0e5",
+          "order" : 18,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/eIm2nKC0125GyEPSWl6ODCA9J1S.jpg",
+            "title" : "Your name.",
+            "tmdbId" : 372058,
+            "year" : "2016"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.810Z",
+          "listItemId" : "b92eb7ee-206f-462f-b7d1-349d05f2a795",
+          "order" : 19,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/t5LDG8GDO0n1rgPgCYrLEMbgz1T.jpg",
+            "title" : "Segredos de um Escândalo",
+            "tmdbId" : 839369,
+            "year" : "2023"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.816Z",
+          "listItemId" : "dfaff7bc-8dcd-4ee5-80ea-c57837c74249",
+          "order" : 20,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/b089YkBDJjOGDQxXkOXBR06Lz2Y.jpg",
+            "title" : "Scarface",
+            "tmdbId" : 111,
+            "year" : "1983"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.822Z",
+          "listItemId" : "f052ab56-06f8-4c9f-a680-93ef85bc529d",
+          "order" : 21,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/9LFNZWm4aSAajzVdZFgjHaXrthy.jpg",
+            "title" : "A Lenda do Cavaleiro Verde",
+            "tmdbId" : 559907,
+            "year" : "2021"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.828Z",
+          "listItemId" : "2ab5d9c3-0bef-442c-84bd-ab229cc69455",
+          "order" : 22,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/pVTtJSvJoOofD1YoyPSGwWEWmJd.jpg",
+            "title" : "Extermínio",
+            "tmdbId" : 170,
+            "year" : "2002"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.834Z",
+          "listItemId" : "f9e3e897-15d9-45c1-9cfd-29fb88eee8e4",
+          "order" : 23,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/lLeWJU33HgfWTnrOcaNBR5fUcF1.jpg",
+            "title" : "Touro Indomável",
+            "tmdbId" : 1578,
+            "year" : "1980"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.841Z",
+          "listItemId" : "826856dc-2954-4914-9cf7-9cb6098eb7e6",
+          "order" : 24,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/cOEbxHAm8CfbpAE9fKv9vTZaWeL.jpg",
+            "title" : "Sangue Negro",
+            "tmdbId" : 7345,
+            "year" : "2007"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.847Z",
+          "listItemId" : "9e9e2a1b-8aae-40eb-8025-66bfbddbefad",
+          "order" : 25,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/3kd322ZpoZdKqrij6CPQtyGaryG.jpg",
+            "title" : "Рассказ о фильме «Иди и смотри»",
+            "tmdbId" : 725554,
+            "year" : "1985"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.853Z",
+          "listItemId" : "c9160a47-5363-4a0c-ad28-d023a1cd5258",
+          "order" : 26,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/7dmr6Pl9XWDzQNWTjtq118Gkfd9.jpg",
+            "title" : "Crescendo Juntas",
+            "tmdbId" : 555285,
+            "year" : "2023"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.859Z",
+          "listItemId" : "e19fa0c2-2f13-42da-b907-6933cf262405",
+          "order" : 27,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/bhPpSMKqabTXp4LuBRtK8Ndme3W.jpg",
+            "title" : "Túmulo dos Vagalumes",
+            "tmdbId" : 12477,
+            "year" : "1988"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.865Z",
+          "listItemId" : "eec76e68-a20e-44a9-b98a-9857c415ac74",
+          "order" : 28,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/9ARCiiOejxr8gsOkoMyNac8gRdS.jpg",
+            "title" : "Um Dia de Cão",
+            "tmdbId" : 968,
+            "year" : "1975"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.871Z",
+          "listItemId" : "ee5d0133-3034-41d7-b883-94be430f666c",
+          "order" : 29,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+            "title" : "Chinatown",
+            "tmdbId" : 829,
+            "year" : "1974"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.877Z",
+          "listItemId" : "b6699a89-5de0-4473-9562-5c2df698ebfd",
+          "order" : 30,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/wNCx5AdhBgSn0ddva3SEUFLs81K.jpg",
+            "title" : "Rashomon",
+            "tmdbId" : 548,
+            "year" : "1950"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.884Z",
+          "listItemId" : "87c83eba-3ee3-4af1-b143-86bf6059d539",
+          "order" : 31,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/AOVUasq9kPPNiHlAL0KJVQ7TWb.jpg",
+            "title" : "Asas do Desejo",
+            "tmdbId" : 144,
+            "year" : "1987"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.890Z",
+          "listItemId" : "2df5914c-3c96-46ea-a0a6-e06d08b19d52",
+          "order" : 32,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/qMg44JbDQPHVUAsXH2gG56mAQwN.jpg",
+            "title" : "Faça a Coisa Certa",
+            "tmdbId" : 925,
+            "year" : "1989"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.896Z",
+          "listItemId" : "ac925d29-6ed1-411d-a8ae-e09f6078b2fb",
+          "order" : 33,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/qC4rVB4Ia6Cc9cwaS0OfNwAD28d.jpg",
+            "title" : "A Professora de Piano",
+            "tmdbId" : 1791,
+            "year" : "2001"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.902Z",
+          "listItemId" : "b73d02e9-8671-4841-93a2-969bd59734f5",
+          "order" : 34,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/9lMAsEo9xA0Iw1DGgy12BOdNlBH.jpg",
+            "title" : "Tomates Verdes Fritos",
+            "tmdbId" : 1633,
+            "year" : "1991"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.908Z",
+          "listItemId" : "8fa9b820-df0a-41ce-a68c-0961a68a9ad4",
+          "order" : 35,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/p6CcV3w9kfpFbB269Mnc16k70U1.jpg",
+            "title" : "Tudo Sobre Minha Mãe",
+            "tmdbId" : 99,
+            "year" : "1999"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.915Z",
+          "listItemId" : "f662c52f-79fc-423e-9b0b-12829f100308",
+          "order" : 36,
+          "titleRef" : {
+            "castNames" : [
+              "John Cusack",
+              "Cameron Diaz",
+              "John Malkovich",
+              "Catherine Keener",
+              "Orson Bean",
+              "Mary Kay Place",
+              "W. Earl Brown",
+              "Carlos Jacott",
+              "Willie Garson",
+              "Byrne Piven",
+              "Gregory Sporleder",
+              "Charlie Sheen",
+              "Reggie Hayes",
+              "K.K. Dodds",
+              "Judith Wetzell"
+            ],
+            "director" : "Spike Jonze",
+            "genres" : [
+              "Comédia",
+              "Drama",
+              "Fantasia"
+            ],
+            "mediaKind" : "movie",
+            "originCountry" : "US",
+            "posterPath" : "/rFpKAnc9X01sucqFPiD9pzxLpiA.jpg",
+            "runtimeMinutes" : 113,
+            "title" : "Quero Ser John Malkovich",
+            "tmdbId" : 492,
+            "writerNames" : [
+              "Charlie Kaufman"
+            ],
+            "year" : "1999"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.921Z",
+          "listItemId" : "13d66ab2-ee62-4c57-9760-7fb1d9fd579f",
+          "order" : 37,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/gBMAT45t5zAEjYolu4j4qqV58OJ.jpg",
+            "title" : "Os Colonos",
+            "tmdbId" : 989589,
+            "year" : "2023"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.927Z",
+          "listItemId" : "d964d92d-9e4c-4736-be0e-fd15deb08a2a",
+          "order" : 38,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/iBdn6jkwOKnJ02W8pdljYyCkYch.jpg",
+            "title" : "Bonequinha de Luxo",
+            "tmdbId" : 164,
+            "year" : "1961"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.933Z",
+          "listItemId" : "8c8a42ee-473d-4120-8a48-b835dfc39a48",
+          "order" : 39,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/rbVczZMHp7nUnXi6na6r0wt3m2v.jpg",
+            "title" : "Adaptação.",
+            "tmdbId" : 2757,
+            "year" : "2002"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.939Z",
+          "listItemId" : "2b273482-1a34-456b-80c7-c98cfd78b88a",
+          "order" : 40,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/dOJtBSyI30wWc08UmyEKLsu4Rfk.jpg",
+            "title" : "Barry Lyndon",
+            "tmdbId" : 3175,
+            "year" : "1975"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.946Z",
+          "listItemId" : "fcccf896-5963-4bb1-96cc-0f40d93fde97",
+          "order" : 41,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/xjeaIyoZOWnPCX5E1JvzmkNv4QC.jpg",
+            "title" : "O Franco Atirador",
+            "tmdbId" : 11778,
+            "year" : "1978"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.952Z",
+          "listItemId" : "7aa6aea8-0324-445b-b26c-08e0ca79e554",
+          "order" : 42,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/zEzQTngP7F4qVmLDCWg5Hby6cgX.jpg",
+            "title" : "Nosferatu: Uma Sinfonia de Horror",
+            "tmdbId" : 653,
+            "year" : "1922"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.958Z",
+          "listItemId" : "bbab9ace-fe67-4c13-9e68-14ab191ae8d8",
+          "order" : 43,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/vz9vNqPzouUPW2Ah7iRBPittuwm.jpg",
+            "title" : "O Mestre",
+            "tmdbId" : 68722,
+            "year" : "2012"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.965Z",
+          "listItemId" : "fddcdae2-0bd5-470a-8110-56f77386ef75",
+          "order" : 44,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/nKk6mPk1JmkRxT92MqGWZQoCX2p.jpg",
+            "title" : "Persépolis",
+            "tmdbId" : 2011,
+            "year" : "2007"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.971Z",
+          "listItemId" : "7408811b-59c9-4c33-878b-7123cd47cb24",
+          "order" : 45,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/8qzPIl8dewy1SyVm9HpL6wbtyw6.jpg",
+            "title" : "Um Homem Sério",
+            "tmdbId" : 12573,
+            "year" : "2009"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.977Z",
+          "listItemId" : "a4ec5fee-3133-4903-95ac-3aa2d98af838",
+          "order" : 46,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/rTqHNku1QIzBDiNZkszq2B1CU6f.jpg",
+            "title" : "Sinédoque, Nova York",
+            "tmdbId" : 4960,
+            "year" : "2008"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.983Z",
+          "listItemId" : "0a4fadc2-3166-4ee2-a42d-84714dff5dd1",
+          "order" : 47,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/r0xZR5ENEc8Pp2ULhkP4lgUWk8Y.jpg",
+            "title" : "Lawrence da Arábia",
+            "tmdbId" : 947,
+            "year" : "1962"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.990Z",
+          "listItemId" : "a1971cfc-b59c-433c-9c49-e568865a20ee",
+          "order" : 48,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/8hpVv2G8cXXEBp67dkcLNqrjNUs.jpg",
+            "title" : "Ladrões de Bicicleta",
+            "tmdbId" : 5156,
+            "year" : "1948"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:26.996Z",
+          "listItemId" : "bf35ea86-973d-4827-8b80-73013b26ad74",
+          "order" : 49,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/t4UH0AJql4paQMq4Dlg1gk2tqhk.jpg",
+            "title" : "Capitão Fantástico",
+            "tmdbId" : 334533,
+            "year" : "2016"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.002Z",
+          "listItemId" : "c81060c4-8858-4da3-982a-f59a337ed6c6",
+          "order" : 50,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/gWw6iyVEoWtYLRNeyS9nv6sgXlx.jpg",
+            "title" : "Ran",
+            "tmdbId" : 11645,
+            "year" : "1985"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.009Z",
+          "listItemId" : "ae4d83ea-187c-49ba-9f61-051a356e92a1",
+          "order" : 51,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/xBx21HvGJCb15PKWkyb7uc435Wx.jpg",
+            "title" : "Metrópolis",
+            "tmdbId" : 19,
+            "year" : "1927"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.015Z",
+          "listItemId" : "339e6dfb-24ee-4edb-93aa-1f3c49ecd8e5",
+          "order" : 52,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/xabQ3ljbRpUYbYxJiRfq7WT15p.jpg",
+            "title" : "Solaris",
+            "tmdbId" : 593,
+            "year" : "1972"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.021Z",
+          "listItemId" : "42578b54-b2ac-4bfd-b08f-3f4d717b074e",
+          "order" : 53,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/pRagfd10PPWryFRSzLPIivfAXHJ.jpg",
+            "title" : "Serpico",
+            "tmdbId" : 9040,
+            "year" : "1973"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.027Z",
+          "listItemId" : "6c136cc4-48ad-481d-b759-3c16fe687f38",
+          "order" : 54,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/ojfEiNOBX7eqh4fDhRhNDTwb38R.jpg",
+            "title" : "Era Uma Vez na América",
+            "tmdbId" : 311,
+            "year" : "1984"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.034Z",
+          "listItemId" : "271ea9f0-1cc0-45c8-a80d-fc2afc683283",
+          "order" : 55,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/mZVFtNKPv3aiESKKeUDV61DaQ90.jpg",
+            "title" : "Extermínio 2",
+            "tmdbId" : 1562,
+            "year" : "2007"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.040Z",
+          "listItemId" : "2e5f4d2b-432a-47ef-b400-113fc7c82081",
+          "order" : 56,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/y6y3E3RWB4z6Pdf4OM0XmtqMqsX.jpg",
+            "title" : "Eu, Capitão",
+            "tmdbId" : 937746,
+            "year" : "2023"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.046Z",
+          "listItemId" : "ea6c91d7-b7c7-4b92-8bef-1cfe1cde0c18",
+          "order" : 57,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/cPSZgOjUA8WJoFw3K6KX0qiZYdJ.jpg",
+            "title" : "Questão de Honra",
+            "tmdbId" : 881,
+            "year" : "1992"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.053Z",
+          "listItemId" : "efc97a9c-b3f0-42d5-8a4c-4658f207d702",
+          "order" : 58,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/Avd0i7NPlt3w4z1pJFlc0jYbqWu.jpg",
+            "title" : "O Gângster",
+            "tmdbId" : 4982,
+            "year" : "2007"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.059Z",
+          "listItemId" : "c886505b-6d7c-48e8-bb64-e13fd6331cdb",
+          "order" : 59,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/liySWQIA4AcpwAsEeTlS368IkF9.jpg",
+            "title" : "O Universo no Olhar",
+            "tmdbId" : 244267,
+            "year" : "2014"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.065Z",
+          "listItemId" : "f76e4cc4-d0aa-4e55-af21-9025a04db39a",
+          "order" : 60,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/yMXURSp7WgLCOYa71L5u0oea4MW.jpg",
+            "title" : "M, o Vampiro de Dusseldorf",
+            "tmdbId" : 832,
+            "year" : "1931"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.072Z",
+          "listItemId" : "2671afdc-b57b-40de-aa6d-653d4ce8cd6c",
+          "order" : 61,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/ogECf18veFeGqQ14duv8rkthnWQ.jpg",
+            "title" : "Silêncio",
+            "tmdbId" : 68730,
+            "year" : "2016"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.078Z",
+          "listItemId" : "5323d4e3-cfdc-4734-9264-73485aca7ac1",
+          "order" : 62,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/eJ0LagzKBCV9EVFxta0j7gUlPok.jpg",
+            "title" : "Kramer vs. Kramer",
+            "tmdbId" : 12102,
+            "year" : "1979"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.084Z",
+          "listItemId" : "eadfc3d7-6ff0-436c-bc2d-ad3713f42dc0",
+          "order" : 63,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/pw72rhXTRbIel6iNWKHUqiIvcZm.jpg",
+            "title" : "Com Amor, Van Gogh",
+            "tmdbId" : 339877,
+            "year" : "2017"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.091Z",
+          "listItemId" : "7e8e019f-a32d-4eec-a4e0-2cfa9bf5e762",
+          "order" : 64,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/mIu3lfpxwt5YprslsSjnU0nZj8y.jpg",
+            "title" : "Artista do Desastre",
+            "tmdbId" : 371638,
+            "year" : "2017"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.097Z",
+          "listItemId" : "c51c5e68-f8cd-4964-996e-7534954b1f07",
+          "order" : 65,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/7JBlG28700Zx2r4xbVv3n1ssOQU.jpg",
+            "title" : "Yojimbo, o Guarda-Costas",
+            "tmdbId" : 11878,
+            "year" : "1961"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.103Z",
+          "listItemId" : "9bc68e64-78f4-4906-9fe1-d858552ac813",
+          "order" : 66,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/rwmVAGodqvd3g5V3qIjI8Jw7ltr.jpg",
+            "title" : "As Pontes de Madison",
+            "tmdbId" : 688,
+            "year" : "1995"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.110Z",
+          "listItemId" : "89eb49ce-1bb9-44bb-b404-7b298ee3c5f5",
+          "order" : 67,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/1EbTWaCUC7ULXbU7Mh1s2Whq9oa.jpg",
+            "title" : "O Jogador",
+            "tmdbId" : 10403,
+            "year" : "1992"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.116Z",
+          "listItemId" : "43eed1d7-2937-4d6c-8bbe-5edad726a5b6",
+          "order" : 68,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/d2L4KyKPdTjIXjAui7bIa8iTXS1.jpg",
+            "title" : "Medianeras: Buenos Aires da Era do Amor Virtual",
+            "tmdbId" : 76696,
+            "year" : "2011"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.122Z",
+          "listItemId" : "7445a161-21ab-4dec-8a4e-fb722c6672ea",
+          "order" : 69,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/kPsGRylSifOZlDx0LIwppb08fel.jpg",
+            "title" : "Lunar",
+            "tmdbId" : 17431,
+            "year" : "2009"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.129Z",
+          "listItemId" : "537e2dbe-2073-4f81-8097-a30020001482",
+          "order" : 70,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/rHYaA5K5F3ihgeEflk8UaeOIWzu.jpg",
+            "title" : "Quem Tem Medo de Virginia Woolf?",
+            "tmdbId" : 396,
+            "year" : "1966"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.135Z",
+          "listItemId" : "102b4474-7084-47c9-b156-ddbf61e6cb10",
+          "order" : 71,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/7xNEkYR9EkcBG1EjiOwyl0oXLU7.jpg",
+            "title" : "Eu Posso Ouvir o Oceano",
+            "tmdbId" : 21057,
+            "year" : "1993"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.141Z",
+          "listItemId" : "309e3928-eb10-4e7b-8717-2f0b725dfe25",
+          "order" : 72,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/tZzE1utUG5psYaT58cZbrrx7nyx.jpg",
+            "title" : "Demônio de Neon",
+            "tmdbId" : 301365,
+            "year" : "2016"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.148Z",
+          "listItemId" : "10fd9291-3b9f-4163-8adf-0a3a11dcda62",
+          "order" : 73,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/culCEdj4srLljefgn4XKd6k3C5t.jpg",
+            "title" : "O Show Deve Continuar",
+            "tmdbId" : 16858,
+            "year" : "1979"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.154Z",
+          "listItemId" : "d6262564-b413-45a1-ac04-746f9d5ff27a",
+          "order" : 74,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/hNSIW0os6mBgjU8BBAcMhSC9c3B.jpg",
+            "title" : "Potemkinistii",
+            "tmdbId" : 968282,
+            "year" : "2022"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.161Z",
+          "listItemId" : "3f4e3b12-0df7-44ee-bf91-fcc1a4a4a933",
+          "order" : 75,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/bZTfnqmIzB6rWQeT0DDC66K8iBf.jpg",
+            "title" : "Além da Linha Vermelha",
+            "tmdbId" : 8741,
+            "year" : "1998"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.167Z",
+          "listItemId" : "8bb6e8bc-6797-483e-a9b4-0c3851afd136",
+          "order" : 76,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/rVjzPVgk8HdnbeMrMVMJI1YBlOJ.jpg",
+            "title" : "Ladrão de Casaca",
+            "tmdbId" : 381,
+            "year" : "1955"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.174Z",
+          "listItemId" : "b2fd30cc-a2fb-43a9-a7de-7177024ce6f9",
+          "order" : 77,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/rr0hc1CGxaMhrlLz1F8XgmJDIsW.jpg",
+            "title" : "Duna de Jodorowsky",
+            "tmdbId" : 191720,
+            "year" : "2013"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.180Z",
+          "listItemId" : "57ed3117-4cd7-4713-9d6e-a8d3a9ff1b06",
+          "order" : 78,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/eXZBRVcDPPX5HWODNiYFcG264p4.jpg",
+            "title" : "Anatomia de um Crime",
+            "tmdbId" : 93,
+            "year" : "1959"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.187Z",
+          "listItemId" : "661c5e31-3f1f-43ce-ab30-600855a12299",
+          "order" : 79,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/xegKL9C46PqyUEik3s9Py3W2Ina.jpg",
+            "title" : "Tokyo-Ga",
+            "tmdbId" : 76406,
+            "year" : "1985"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.193Z",
+          "listItemId" : "1d72d8d0-4d64-4e73-85df-88c4d8c91deb",
+          "order" : 80,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/gScIc40hwbCFE2OWRxbNI547zit.jpg",
+            "title" : "Barton Fink: Delírios de Hollywood",
+            "tmdbId" : 290,
+            "year" : "1991"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.199Z",
+          "listItemId" : "c2edcdcd-2261-461a-9f63-d447a4a1bef8",
+          "order" : 81,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/wblcMb6Vq0FkXPWBUIGyZrLhSiZ.jpg",
+            "title" : "No Portal da Eternidade",
+            "tmdbId" : 491472,
+            "year" : "2018"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.206Z",
+          "listItemId" : "b728a509-c9e9-43b8-9db8-643e89abcbc9",
+          "order" : 82,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/zpV4a6NltiivNHggQzwnILd8nnf.jpg",
+            "title" : "O Discreto Charme da Burguesia",
+            "tmdbId" : 4593,
+            "year" : "1972"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.212Z",
+          "listItemId" : "8ce2ec3a-094b-4a0f-a06e-254d5d458ec3",
+          "order" : 83,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/piG2K4yaa1CO6flhWQPSVkgPvhH.jpg",
+            "title" : "O Conde",
+            "tmdbId" : 991708,
+            "year" : "2023"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.219Z",
+          "listItemId" : "f935b1a6-72c2-4d64-b59b-9786a493e2a4",
+          "order" : 84,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/9xdGGc7RSe45SnfEIeQ4V7D4W7e.jpg",
+            "title" : "Bonnie e Clyde: Uma Rajada de Balas",
+            "tmdbId" : 475,
+            "year" : "1967"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.225Z",
+          "listItemId" : "c710903a-2428-4cdc-96af-24b94ee1ffed",
+          "order" : 85,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/ngyCzZwb9y5sMUCig5JQT4Y33Q.jpg",
+            "title" : "Tootsie",
+            "tmdbId" : 9576,
+            "year" : "1982"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.232Z",
+          "listItemId" : "a66e8fbd-95f5-4d57-8b45-2908bdd07cb6",
+          "order" : 86,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/gzqnyWWh9HvtPFB0vOifwSKM68A.jpg",
+            "title" : "Estrada para Perdição",
+            "tmdbId" : 4147,
+            "year" : "2002"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.238Z",
+          "listItemId" : "351589c9-9e8b-4b0e-9646-4db55267f9db",
+          "order" : 87,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/hOLaCJjBJXt5SojmeAVJ2nRnSNa.jpg",
+            "title" : "Ben-Hur",
+            "tmdbId" : 665,
+            "year" : "1959"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.245Z",
+          "listItemId" : "93c4367e-5c1a-4626-bd92-dc311c6d0995",
+          "order" : 88,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/wScEgkA3eWfhyp5WoxGt5Zu3sug.jpg",
+            "title" : "Horizon: Uma Saga Americana - Capítulo 1",
+            "tmdbId" : 932086,
+            "year" : "2024"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.251Z",
+          "listItemId" : "6bba9a37-41ef-4b2b-93aa-799fdcf70b09",
+          "order" : 89,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/kE2JoVERLwwXf0RDifRcpEN5xBa.jpg",
+            "title" : "O Senhor dos Mortos",
+            "tmdbId" : 970947,
+            "year" : "2025"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.258Z",
+          "listItemId" : "da1f867a-0f26-4bac-aa55-122230c754d3",
+          "order" : 90,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/4N10WD9eusHw2fRnp7GHD3vUitg.jpg",
+            "title" : "Barbarella",
+            "tmdbId" : 8069,
+            "year" : "1968"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.264Z",
+          "listItemId" : "73245490-611a-463d-a3f2-6209421fa6c6",
+          "order" : 91,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/dmnY0Zs8uMSHkMiol7M3xOlvvkK.jpg",
+            "title" : "Orgulho e Preconceito",
+            "tmdbId" : 4348,
+            "year" : "2005"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.271Z",
+          "listItemId" : "5069c814-b009-4474-be43-1e5f441c3df2",
+          "order" : 92,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/fzdTiUQ8Qzft7TJRcH8OUPQvutA.jpg",
+            "title" : "Magnólia",
+            "tmdbId" : 334,
+            "year" : "1999"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.277Z",
+          "listItemId" : "514b6236-16d0-44e5-adbf-62cbd7ac52b8",
+          "order" : 93,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/2f3Aw6GCzpn1qw56xq78dH0VBgn.jpg",
+            "title" : "Os Sete Samurais",
+            "tmdbId" : 346,
+            "year" : "1954"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.284Z",
+          "listItemId" : "e81c4f06-fad8-47ba-93c8-7fc8a0a77569",
+          "order" : 94,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/wHITh5qpAZr9e9Q7mtxXYReJxt2.jpg",
+            "title" : "Os Incompreendidos",
+            "tmdbId" : 147,
+            "year" : "1959"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.290Z",
+          "listItemId" : "7cf2d76d-8f1a-4d0f-b795-f44b3ab16f9c",
+          "order" : 95,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/4p8ljwqw0SJjKszU0ZSPTjYFbeR.jpg",
+            "title" : "O Bebê de Rosemary",
+            "tmdbId" : 805,
+            "year" : "1968"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.297Z",
+          "listItemId" : "b8f00964-5629-4e6f-93ec-0ebf7e5adf59",
+          "order" : 96,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/5z1ogJJmQkCoU62VJmut4nnc2qs.jpg",
+            "title" : "Esposas em Conflito",
+            "tmdbId" : 12223,
+            "year" : "1975"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.303Z",
+          "listItemId" : "787b09ba-6859-4fdf-9b1b-9968c9b3b7fb",
+          "order" : 97,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/lDygTdg1KlrVJVzqsFL515uGzSe.jpg",
+            "title" : "Irmãos Desastre",
+            "tmdbId" : 244772,
+            "year" : "2014"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.310Z",
+          "listItemId" : "e9798e72-3fa9-4363-aeea-479825b933bb",
+          "order" : 98,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/o6oORLNmEHiwqXjgGEGDoN720Bk.jpg",
+            "title" : "Harakiri",
+            "tmdbId" : 14537,
+            "year" : "1962"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.317Z",
+          "listItemId" : "1ff6b764-e736-4853-892d-71a2f398a447",
+          "order" : 99,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/veXttPnNe8EZulvmeGTyDUrG9T4.jpg",
+            "title" : "Apocalypse Now",
+            "tmdbId" : 28,
+            "year" : "1979"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.323Z",
+          "listItemId" : "6425e4d2-335c-4dfc-ba04-12ae81e06983",
+          "order" : 100,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/5ZYw60u95SxaLWY6YjoVoRaQKfg.jpg",
+            "title" : "O Barco: Inferno no Mar",
+            "tmdbId" : 387,
+            "year" : "1981"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.330Z",
+          "listItemId" : "610978ee-6aeb-4b49-958b-ab0dbbd9ef30",
+          "order" : 101,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/7kJgNZaRAOYM3HJIP5eTZ8PWVv4.jpg",
+            "title" : "Sem Novidade no Front",
+            "tmdbId" : 143,
+            "year" : "1930"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.336Z",
+          "listItemId" : "b32c8ace-01eb-4afb-8089-9c16a648b0c4",
+          "order" : 102,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/4F6swrmExL01J7KuZgl841aqiQ.jpg",
+            "title" : "Roma, Cidade Aberta",
+            "tmdbId" : 307,
+            "year" : "1945"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.343Z",
+          "listItemId" : "5a82f1aa-bb4e-448b-a5a5-fd65f07a5ecd",
+          "order" : 103,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/2ojoKyYd4kI8BVW63AC7zcTiVBd.jpg",
+            "title" : "Hiroshima, Meu Amor",
+            "tmdbId" : 5544,
+            "year" : "1959"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.350Z",
+          "listItemId" : "ec92c8e1-c718-48f8-b0b1-b26ebf7b9ab7",
+          "order" : 104,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/vBSTJhHcVq5zffTudQ7jMG9vDwI.jpg",
+            "title" : "Deus e o Diabo na Terra do Sol",
+            "tmdbId" : 67612,
+            "year" : "1964"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.356Z",
+          "listItemId" : "50fd889e-0101-4dae-8b3a-e8183bbb98b3",
+          "order" : 105,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/88iFSHxW8QegG3Fc2a6VZ0FvIiI.jpg",
+            "title" : "O Jogo da Guerra",
+            "tmdbId" : 26508,
+            "year" : "1966"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.363Z",
+          "listItemId" : "265c1adc-834b-4a55-bb07-d252bdb6fcf6",
+          "order" : 106,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/4A2RcS1nBtxXfn5Uz7Ed4OwxBho.jpg",
+            "title" : "A Bela da Tarde",
+            "tmdbId" : 649,
+            "year" : "1967"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.369Z",
+          "listItemId" : "cfc32be1-7e2f-4003-bf4b-bf3d94ff79fb",
+          "order" : 107,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/6p9TWSnP1Ydx7UDHUPTTHpinQDR.jpg",
+            "title" : "Satyricon",
+            "tmdbId" : 281783,
+            "year" : "1969"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.376Z",
+          "listItemId" : "7402c7c6-6741-4c13-b3cc-e3d84915d523",
+          "order" : 108,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/356oqQpug682OERsWV0bGZ0YxwQ.jpg",
+            "title" : "Papillon",
+            "tmdbId" : 5924,
+            "year" : "1973"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.382Z",
+          "listItemId" : "9fae384c-52d7-4283-8796-e3503fbc9ddb",
+          "order" : 109,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/ceX6cYVY8u4TH1zNPvsApRx64CN.jpg",
+            "title" : "Platoon",
+            "tmdbId" : 792,
+            "year" : "1986"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.389Z",
+          "listItemId" : "626a4a11-b5f0-468c-a73b-b31c923f6ac1",
+          "order" : 110,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/hXXKlr7GZnPG6yr1QraAMGyhsQG.jpg",
+            "title" : "Loop Infinito",
+            "tmdbId" : 1143128,
+            "year" : "2024"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.396Z",
+          "listItemId" : "2b1b5d93-1925-4267-a5ca-42894179c936",
+          "order" : 111,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/kGc9SKYuRg63H4IJw0HDUor0SU8.jpg",
+            "title" : "A Sociedade Norte-Americana dos Negros Mágicos",
+            "tmdbId" : 1039773,
+            "year" : "2024"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.402Z",
+          "listItemId" : "1587ad6c-c3fc-45e8-aa02-e9b5e7ccb6e7",
+          "order" : 112,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg",
+            "title" : "Viva: A Vida é uma Festa",
+            "tmdbId" : 354912,
+            "year" : "2017"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.409Z",
+          "listItemId" : "08d59351-3b2b-486b-87eb-cc467398e65f",
+          "order" : 113,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/r0jXCh59NOJaFKtf9tqglIm3n7N.jpg",
+            "title" : "Eles Não Usam Black-Tie",
+            "tmdbId" : 203158,
+            "year" : "1981"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.416Z",
+          "listItemId" : "0f328a10-f242-4993-84a6-a75645253cf1",
+          "order" : 114,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/6NinAxwoSRHO6CrTbfbrLM6peXN.jpg",
+            "title" : "A Grande Ilusão",
+            "tmdbId" : 25430,
+            "year" : "1949"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.422Z",
+          "listItemId" : "278dcc5c-b13f-4dab-8e50-60018b2ec76a",
+          "order" : 115,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/mSJkBBKNkWYjRn6nmkXlMIoNO7T.jpg",
+            "title" : "Adeus, Meninos",
+            "tmdbId" : 1786,
+            "year" : "1987"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.429Z",
+          "listItemId" : "49ffa197-9cbd-47e0-8ccb-7cf4d558b988",
+          "order" : 116,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/7ykEOeYVD90w3yxc64jC1qo9qza.jpg",
+            "title" : "Vampira Humanista Procura Suicida Voluntário",
+            "tmdbId" : 988402,
+            "year" : "2023"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.436Z",
+          "listItemId" : "b0b3eabd-8295-4d93-be4f-a52a16546069",
+          "order" : 117,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/yNsh9hqjawnvAXWATmsy8pkNWdM.jpg",
+            "title" : "Caminhos Perigosos",
+            "tmdbId" : 203,
+            "year" : "1973"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.442Z",
+          "listItemId" : "89e66e37-23d9-4eac-bbaf-d95e706c8158",
+          "order" : 118,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/k2ORRSkOWzv0ALY9cz9fMAqwY1p.jpg",
+            "title" : "O Samurai",
+            "tmdbId" : 5511,
+            "year" : "1967"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.449Z",
+          "listItemId" : "12f30245-e2d8-4b07-8ce1-44c1566d714b",
+          "order" : 119,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/s4lE9QpFxXj5erOQn1PBMNReVvt.jpg",
+            "title" : "Y2K: O Bug do Milênio",
+            "tmdbId" : 1094274,
+            "year" : "2024"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.456Z",
+          "listItemId" : "a8457b7d-0946-4155-9ada-18f5e7f89a5d",
+          "order" : 120,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/6PCnxKZZIVRanWb710pNpYVkCSw.jpg",
+            "title" : "The Killer",
+            "tmdbId" : 970347,
+            "year" : "2024"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.462Z",
+          "listItemId" : "8b8f094e-eeb3-4151-abef-5ef09dea44ba",
+          "order" : 121,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/1QPZHBSoG6t1vz2MgVRWnHASnyY.jpg",
+            "title" : "No Mundo de 2020",
+            "tmdbId" : 12101,
+            "year" : "1973"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.469Z",
+          "listItemId" : "0678826a-dda8-4837-8a31-89a961b81de1",
+          "order" : 122,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/mkQDVmNaOn81Kny7XLJUAi1agbH.jpg",
+            "title" : "Monster",
+            "tmdbId" : 1050035,
+            "year" : "2023"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.476Z",
+          "listItemId" : "43c17ad9-d723-4154-856b-3071625631ef",
+          "order" : 123,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/eWsDoicwFFYDxZsKayAD5eZUAW1.jpg",
+            "title" : "Benedetta",
+            "tmdbId" : 454527,
+            "year" : "2021"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.483Z",
+          "listItemId" : "86811347-342e-4a6a-9d07-9096bc55ac69",
+          "order" : 124,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/lZzWINLDNkhYn6B3IW8jZuqNllG.jpg",
+            "title" : "O Contador de Cartas",
+            "tmdbId" : 643532,
+            "year" : "2021"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.489Z",
+          "listItemId" : "e5c6cb2a-6a69-478c-940b-855b08fb525a",
+          "order" : 125,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/rUcuageYgv9SsJoWuc0seRWG6JC.jpg",
+            "title" : "Thelma",
+            "tmdbId" : 1051891,
+            "year" : "2024"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.496Z",
+          "listItemId" : "a1c4d42e-2b22-4e13-adb8-2049452e4942",
+          "order" : 126,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/uc2txUknq7W3ZyZN0hiwgvpoOOj.jpg",
+            "title" : "Caçula",
+            "tmdbId" : 1158915,
+            "year" : "2024"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.503Z",
+          "listItemId" : "52ea07f5-8ffc-4dc1-af34-0ab6dc1d711e",
+          "order" : 127,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/9zdqkbwVGrUl0biGCqCOgvbgaM5.jpg",
+            "title" : "Sasquatch Sunset",
+            "tmdbId" : 1015634,
+            "year" : "2024"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.509Z",
+          "listItemId" : "74bfcb1e-d8ef-46c5-bc92-63d6353c4aa5",
+          "order" : 128,
+          "titleRef" : {
+            "castNames" : [
+              "Wesley Snipes",
+              "Kris Kristofferson",
+              "Ron Perlman",
+              "Leonor Varela",
+              "Norman Reedus",
+              "Thomas Kretschmann",
+              "Luke Goss",
+              "Matt Schulze",
+              "Danny John-Jules",
+              "Donnie Yen",
+              "Karel Roden",
+              "Marit Velle Kile",
+              "Tony Curran",
+              "Daz Crawford",
+              "Santiago Segura"
+            ],
+            "director" : "Guillermo del Toro",
+            "genres" : [
+              "Fantasia",
+              "Terror",
+              "Ação",
+              "Thriller"
+            ],
+            "mediaKind" : "movie",
+            "originCountry" : "US",
+            "posterPath" : "/85FiSIRQpKyzNFqzUAe9RmPOdYY.jpg",
+            "runtimeMinutes" : 117,
+            "title" : "Blade II: O Caçador de Vampiros",
+            "tmdbId" : 36586,
+            "writerNames" : [
+              "David S. Goyer"
+            ],
+            "year" : "2002"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.516Z",
+          "listItemId" : "11024282-e795-4676-b529-a736734d6f2d",
+          "order" : 129,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/Al7j2A40AtSrV348jYrwGp1qxqI.jpg",
+            "title" : "Fonte da Vida",
+            "tmdbId" : 1381,
+            "year" : "2006"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.523Z",
+          "listItemId" : "f30af829-593d-4ec9-b59b-4bc376b6de68",
+          "order" : 130,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/diSCVAovDgGGk5QJzmU0rPXoPRB.jpg",
+            "title" : "Um Filho",
+            "tmdbId" : 806368,
+            "year" : "2022"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.529Z",
+          "listItemId" : "ceacd4f2-9b74-4726-a725-b2a19e85506c",
+          "order" : 131,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/tLUOxyl1myKTQGMTCnuA9RRArHS.jpg",
+            "title" : "Cantando na Chuva",
+            "tmdbId" : 872,
+            "year" : "1952"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.536Z",
+          "listItemId" : "89cb2255-8aae-43fa-8e69-5d4cdf8a93ff",
+          "order" : 132,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/h0T4FHsY51IccSGqGfaoYsd7hyx.jpg",
+            "title" : "Sócios no Amor",
+            "tmdbId" : 77210,
+            "year" : "1933"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.543Z",
+          "listItemId" : "6bf0bd9e-8cb5-4249-8cfd-a5ac2ef763e8",
+          "order" : 133,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/5q752lJ1XoRwj6yKVx999avJ8eO.jpg",
+            "title" : "Sussurros do Coração",
+            "tmdbId" : 37797,
+            "year" : "1995"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.550Z",
+          "listItemId" : "cf9ac116-d37b-4548-9288-9752c5addccf",
+          "order" : 134,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/sW1rdwrQRt8xNdO2Q7Opp0TIsw3.jpg",
+            "title" : "Calígula",
+            "tmdbId" : 9453,
+            "year" : "1979"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.556Z",
+          "listItemId" : "291390b8-e3e2-468f-af86-9c3c25e3b7a6",
+          "order" : 135,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/vgXK199iPFVzfKxfFEAQyWirT1A.jpg",
+            "title" : "Mistérios e Paixões",
+            "tmdbId" : 2742,
+            "year" : "1991"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.563Z",
+          "listItemId" : "90d93db7-c379-4741-9105-c1e03d4f6e74",
+          "order" : 136,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/kQd0KoqaRswX6fmw153Lnpbfx9.jpg",
+            "title" : "A Cabeça de Gumercindo Saraiva",
+            "tmdbId" : 555890,
+            "year" : "2018"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.570Z",
+          "listItemId" : "d2be32e5-310a-4a47-bd7d-56251726716d",
+          "order" : 137,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/j1xE9l5n3Qk0d0pRG0iz9oNNwoH.jpg",
+            "title" : "O Sétimo Selo",
+            "tmdbId" : 490,
+            "year" : "1957"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.576Z",
+          "listItemId" : "d72b789b-0bd0-4da4-a928-76fbc1453b26",
+          "order" : 138,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/1xbYcoEb9gqezNnLgjWcZI5Hlsl.jpg",
+            "title" : "Will & Harper",
+            "tmdbId" : 1214506,
+            "year" : "2024"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.583Z",
+          "listItemId" : "0688f853-2517-4b1d-9131-cfded82fd14f",
+          "order" : 139,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/228OqGT7SuEJCWuYAZ7X7hRBseu.jpg",
+            "title" : "Galante e Sanguinário",
+            "tmdbId" : 14168,
+            "year" : "1957"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.590Z",
+          "listItemId" : "d4edf4f7-5e62-4616-a29e-2c51916bed08",
+          "order" : 140,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/3mcjw2A8cqRB7zOpe70vi2PuLCV.jpg",
+            "title" : "O Boulevard do Crime",
+            "tmdbId" : 2457,
+            "year" : "1945"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.597Z",
+          "listItemId" : "aaeaecfc-5f17-470f-97c9-c7555fc0d0c7",
+          "order" : 141,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/32yYH8TmxYrmSWgUG5RhojjeQgO.jpg",
+            "title" : "Três Mulheres",
+            "tmdbId" : 41662,
+            "year" : "1977"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.603Z",
+          "listItemId" : "2a1d8a87-b1c0-4074-ae19-5878bf4e2285",
+          "order" : 142,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/482OpzSoSeAVx7KDJlWupLNIf0r.jpg",
+            "title" : "Os Maridos",
+            "tmdbId" : 52105,
+            "year" : "1970"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.610Z",
+          "listItemId" : "aa6c7594-a618-490f-9323-cdc6f70489b1",
+          "order" : 143,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/5paaMdmPdsKTfpIZQvArNKNNMoh.jpg",
+            "title" : "Soberba",
+            "tmdbId" : 965,
+            "year" : "1942"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.617Z",
+          "listItemId" : "82eb8d09-056b-4499-a8ae-8835723bd178",
+          "order" : 144,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/cHNbFGbVpF39yoYa82r3MLYqFl7.jpg",
+            "title" : "Pina",
+            "tmdbId" : 57276,
+            "year" : "2011"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.624Z",
+          "listItemId" : "5540fdfc-f099-4ca0-b043-5f86d3efbefb",
+          "order" : 145,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/bOFs0JZyqTIbOkWcoiRMFNmK2G2.jpg",
+            "title" : "Um Anjo em Minha Mesa",
+            "tmdbId" : 2891,
+            "year" : "1990"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.631Z",
+          "listItemId" : "c34b91ff-6575-4ca9-9b0d-7b76365a114c",
+          "order" : 146,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/dJKSee0Dvurz215ziq1uaxRc236.jpg",
+            "title" : "Tess - Uma Lição de Vida",
+            "tmdbId" : 11121,
+            "year" : "1979"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.637Z",
+          "listItemId" : "054b0e80-5b76-47d6-a82f-a2345a8fb9b1",
+          "order" : 147,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/4iCqW5amRFKaA7tVnlbE5rmC6Bh.jpg",
+            "title" : "Cinzas no Paraíso",
+            "tmdbId" : 16642,
+            "year" : "1978"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.644Z",
+          "listItemId" : "3097ccca-836c-4129-8745-9377ba67bfd5",
+          "order" : 148,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/7BAXwmFN4pZDNb9N6kzmAAwdssi.jpg",
+            "title" : "Picnic na Montanha Misteriosa",
+            "tmdbId" : 11020,
+            "year" : "1975"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.651Z",
+          "listItemId" : "cb15171b-0804-44ae-a2d2-a210d8410dc0",
+          "order" : 149,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/ynAtSpTou7snNOq32djzILw9VCA.jpg",
+            "title" : "Tempo de Decisão",
+            "tmdbId" : 28387,
+            "year" : "1995"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.658Z",
+          "listItemId" : "5a3dc7cd-231f-4df0-9f8f-1a3343eaea16",
+          "order" : 150,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/2VGQsyCvd2XJKpKZXHF4AWsADoA.jpg",
+            "title" : "Portões do Paraíso",
+            "tmdbId" : 24998,
+            "year" : "1978"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.665Z",
+          "listItemId" : "7d9f9512-a20a-4132-87f4-6a83ba72b0d7",
+          "order" : 151,
+          "titleRef" : {
+            "castNames" : [
+              "Jason Patric",
+              "Corey Haim",
+              "Dianne Wiest",
+              "Barnard Hughes",
+              "Edward Herrmann",
+              "Kiefer Sutherland",
+              "Jami Gertz",
+              "Corey Feldman",
+              "Jamison Newlander",
+              "Brooke McCarter",
+              "Billy Wirth",
+              "Alex Winter",
+              "Chance Michael Corbitt",
+              "Alexander Bacan Chapman",
+              "Nori Morgan"
+            ],
+            "director" : "Joel Schumacher",
+            "genres" : [
+              "Terror",
+              "Comédia",
+              "Thriller",
+              "Drama",
+              "Romance"
+            ],
+            "mediaKind" : "movie",
+            "originCountry" : "US",
+            "posterPath" : "/xlzkIfReoFJbPkbV67NcsuMcu6T.jpg",
+            "runtimeMinutes" : 97,
+            "title" : "Os Garotos Perdidos",
+            "tmdbId" : 1547,
+            "writerNames" : [
+              "Janice Fischer",
+              "James Jeremias",
+              "Jeffrey Boam"
+            ],
+            "year" : "1987"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.671Z",
+          "listItemId" : "91a6df45-964f-4705-867d-389746b93c1d",
+          "order" : 152,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/7zqwgaVgJApVNRNydjDiA63KoNZ.jpg",
+            "title" : "Fuga no Século 23",
+            "tmdbId" : 10803,
+            "year" : "1976"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.678Z",
+          "listItemId" : "2bc5aba8-2db4-4d4f-8883-d2d7f8f2ca45",
+          "order" : 153,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/z7HT9sDp2AQQKPhk4pCOWTy6RL7.jpg",
+            "title" : "O Quarto ao Lado",
+            "tmdbId" : 1088514,
+            "year" : "2024"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.685Z",
+          "listItemId" : "024653de-fb45-4d8d-99ed-2d6e66eeb1bf",
+          "order" : 154,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/50cwEV5MvT1Kr8OxcmBjbhLOFsk.jpg",
+            "title" : "Os Outros",
+            "tmdbId" : 1933,
+            "year" : "2001"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.692Z",
+          "listItemId" : "6e771402-cecf-41b7-b8c0-ad6718f97c1c",
+          "order" : 155,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/h7N9tVbkODyKlZMNwG9mLLXG6bU.jpg",
+            "title" : "Dublê de Anjo",
+            "tmdbId" : 14784,
+            "year" : "2006"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.699Z",
+          "listItemId" : "c1bf8479-5807-44ab-8238-5eabb1978d4c",
+          "order" : 156,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/a8cykn2DbXdeE7hSqzBtVhPjOUn.jpg",
+            "title" : "Depois de Horas",
+            "tmdbId" : 10843,
+            "year" : "1985"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.706Z",
+          "listItemId" : "832772b9-14dc-4cd5-89f8-395115a51f73",
+          "order" : 157,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/ab5X8sDqGD666YwSpTD35aNEjPk.jpg",
+            "title" : "Super/Man: A História de Christopher Reeve",
+            "tmdbId" : 1128559,
+            "year" : "2024"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.712Z",
+          "listItemId" : "49ddc517-c65e-41e9-bd54-62599459a11b",
+          "order" : 158,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/1MR6M5bX9r9HNf5SCWP9MRrEm8P.jpg",
+            "title" : "28 Up",
+            "tmdbId" : 20561,
+            "year" : "1984"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.719Z",
+          "listItemId" : "accc688e-976d-49c6-88ee-cf8e2b1b7879",
+          "order" : 159,
+          "titleRef" : {
+            "mediaKind" : "tv",
+            "posterPath" : "/wUcnmaO3zRKG5vQLxzGI98s21Vv.jpg",
+            "title" : "63 Up",
+            "tmdbId" : 94998,
+            "year" : "2019"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.726Z",
+          "listItemId" : "9e4b04a7-9f8b-41a1-9555-bfa8fe7770c5",
+          "order" : 160,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/sHFynDgVxNeQKCsjUIKa0uEldKd.jpg",
+            "title" : "Ervas Flutuantes",
+            "tmdbId" : 46918,
+            "year" : "1959"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.733Z",
+          "listItemId" : "e6251f14-02c4-4257-9b00-2b8223381b61",
+          "order" : 161,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/aGlxyjWBNWN2PnMnQdPpFn8qEij.jpg",
+            "title" : "Interlúdio",
+            "tmdbId" : 303,
+            "year" : "1946"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.740Z",
+          "listItemId" : "99a32bf7-84b6-47c7-8707-cc90893970ef",
+          "order" : 162,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/B1MT9bSEfrSnCuNRDj8dRbiuY1.jpg",
+            "title" : "O 3º Homem",
+            "tmdbId" : 1092,
+            "year" : "1949"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.747Z",
+          "listItemId" : "7483070e-11a2-404b-a5c3-da37aa46cdbb",
+          "order" : 163,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/gReWjFxfJzHtzufSld5GehFiUo2.jpg",
+            "title" : "Cabaret",
+            "tmdbId" : 10784,
+            "year" : "1972"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.753Z",
+          "listItemId" : "c88f5a9b-e331-4ed6-9b3a-abd101b5ff52",
+          "order" : 164,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/82mCeQoeT2C7h7vR6Ot9MQotE1R.jpg",
+            "title" : "Titus",
+            "tmdbId" : 12524,
+            "year" : "1999"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.760Z",
+          "listItemId" : "aa768c17-aed7-473c-a7cd-8902779ddfe6",
+          "order" : 165,
+          "titleRef" : {
+            "castNames" : [
+              "Joaquin Phoenix",
+              "Claire Danes",
+              "Sean Penn",
+              "Douglas Henshall",
+              "Alun Armstrong",
+              "Margo Martindale",
+              "Mark Strong",
+              "Geoffrey Hutchings",
+              "Thomas Bo Larsen",
+              "Harry Ditson",
+              "Teddy Kempner",
+              "Indra Ové",
+              "Georgi Staykov",
+              "Anna Wallander",
+              "Mariann Rudberg"
+            ],
+            "director" : "Thomas Vinterberg",
+            "genres" : [
+              "Drama",
+              "Romance",
+              "Ficção científica",
+              "Thriller"
+            ],
+            "mediaKind" : "movie",
+            "originCountry" : "DK",
+            "posterPath" : "/3RDSIkHsVy6NAgD6PfQKDCNTcmR.jpg",
+            "runtimeMinutes" : 104,
+            "title" : "Dogma do Amor",
+            "tmdbId" : 12777,
+            "writerNames" : [
+              "Thomas Vinterberg",
+              "Mogens Rukov"
+            ],
+            "year" : "2003"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.767Z",
+          "listItemId" : "41a1bb28-b6f4-48bb-b5f2-1d031c994d51",
+          "order" : 166,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/bUjhoGhKM1e5t3oSZQpfuuFVAys.jpg",
+            "title" : "Hansel and Gretel",
+            "tmdbId" : 527634,
+            "year" : "2007"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.774Z",
+          "listItemId" : "a044b06f-3348-4d72-9708-34fa7d4f3b9f",
+          "order" : 167,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/aYdJETyCZyFGq4e2qz2pefuahW8.jpg",
+            "title" : "Morra, Amor",
+            "tmdbId" : 1033148,
+            "year" : "2025"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.781Z",
+          "listItemId" : "cf0231bd-c6f7-47de-9989-aa01373854e0",
+          "order" : 168,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/jY8TTgRSJfrBQCPZTUAlJTGN1JK.jpg",
+            "title" : "O Esquema Fenício",
+            "tmdbId" : 1137350,
+            "year" : "2025"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.788Z",
+          "listItemId" : "789ed406-3e08-41eb-9f31-7e263a6881d2",
+          "order" : 169,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/wpZUzr2fsfj3k5ZXyIBmH7Btngo.jpg",
+            "title" : "Eddington",
+            "tmdbId" : 648878,
+            "year" : "2025"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.795Z",
+          "listItemId" : "9f599b83-191f-4db7-9dfd-ab4d06cb77d4",
+          "order" : 170,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/oX5jEJ8DjEEwEG4y3GkXUM3lPrt.jpg",
+            "title" : "Meu Nome é Maria",
+            "tmdbId" : 971968,
+            "year" : "2024"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.802Z",
+          "listItemId" : "565bc714-8d37-46f6-aefb-3bb9c8eebf2a",
+          "order" : 171,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/bLtOhcGhdMFlO3U85Of04KIDDbI.jpg",
+            "title" : "O Som da Queda",
+            "tmdbId" : 1221061,
+            "year" : "2025"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.808Z",
+          "listItemId" : "12803d0f-be6e-4bbc-b7d6-e903af385b3e",
+          "order" : 172,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/g5NxPFGcoUCXOrHx9DHi6AAQWQu.jpg",
+            "title" : "Pixote: A Lei do Mais Fraco",
+            "tmdbId" : 42148,
+            "year" : "1980"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.815Z",
+          "listItemId" : "065bdbff-88cb-456a-bd14-a8eea49815e8",
+          "order" : 173,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/iGajknLCU3m3caSU8f6W03OMnr2.jpg",
+            "title" : "A Mão que Balança o Berço",
+            "tmdbId" : 11087,
+            "year" : "1992"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.822Z",
+          "listItemId" : "6e90df44-7034-4b68-a79a-0f44a180fc04",
+          "order" : 174,
+          "titleRef" : {
+            "castNames" : [
+              "Renate Reinsve",
+              "Stellan Skarsgård",
+              "Inga Ibsdotter Lilleaas",
+              "Elle Fanning",
+              "Anders Danielsen Lie",
+              "Jesper Christensen",
+              "Lena Endre",
+              "Cory Michael Smith",
+              "Catherine Cohen",
+              "Andreas Stoltenberg Granerud",
+              "Øyvind Hesjedal Loven",
+              "Lars Väringer",
+              "Ida Marianne Vassbotn Klasson",
+              "Vilde Søyland",
+              "Sigrid Lorentzen Abelsnes"
+            ],
+            "director" : "Joachim Trier",
+            "genres" : [
+              "Drama"
+            ],
+            "mediaKind" : "movie",
+            "originCountry" : "FR",
+            "posterPath" : "/pTMpLRfB9wUaQ8CEdGEUkyVXwOo.jpg",
+            "runtimeMinutes" : 132,
+            "title" : "Valor Sentimental",
+            "tmdbId" : 1124566,
+            "writerNames" : [
+              "Eskil Vogt",
+              "Joachim Trier"
+            ],
+            "year" : "2025"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.829Z",
+          "listItemId" : "5d72a6a5-7d9e-4347-a281-6dcc70136e2f",
+          "order" : 175,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/pZ9KqPSN4uv8ByEuFKP1vLyWYU4.jpg",
+            "title" : "Separados pelas Estrelas",
+            "tmdbId" : 1165642,
+            "year" : "2025"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.836Z",
+          "listItemId" : "37fdb5ed-87a6-48f1-a667-f9c1cd4e0013",
+          "order" : 176,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/jqxD0H9a1rg5bXftsm6gsNOjt4n.jpg",
+            "title" : "Momento Inesquecível",
+            "tmdbId" : 11235,
+            "year" : "1983"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.843Z",
+          "listItemId" : "98c9ba34-378a-49f9-9741-4a3bb52f62bd",
+          "order" : 177,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/gpnbwn6TsSVlZtYpuvS4e3r1avx.jpg",
+            "title" : "Tangerina",
+            "tmdbId" : 308084,
+            "year" : "2015"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.850Z",
+          "listItemId" : "8582e8fa-e5bb-4aaf-bb84-278bec8b76d3",
+          "order" : 178,
+          "titleRef" : {
+            "mediaKind" : "tv",
+            "posterPath" : "/hrReJqwC0TwvdNBin9hyplSJNpu.jpg",
+            "title" : "Vitória",
+            "tmdbId" : 285711,
+            "year" : "2025"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.857Z",
+          "listItemId" : "e75d3df0-da0d-4a3a-be07-2b0536080b4e",
+          "order" : 179,
+          "titleRef" : {
+            "castNames" : [
+              "Vahid Mobasseri",
+              "Mariam Afshari",
+              "Ebrahim Azizi",
+              "Hadis Pakbaten",
+              "Majid Panahi",
+              "Mohamad Ali Elyasmehr",
+              "George Hashemzadeh",
+              "Delmaz Najafi",
+              "Afsaneh Najm Abadi",
+              "Omid Reza",
+              "Ali Rastegari",
+              "Mohsen Maleki",
+              "Amir Youssefi",
+              "Negin Arbabi",
+              "Elmira Ziaï Sigaroudi"
+            ],
+            "director" : "Jafar Panahi",
+            "genres" : [
+              "Drama",
+              "Thriller",
+              "Crime",
+              "Mistério"
+            ],
+            "mediaKind" : "movie",
+            "originCountry" : "FR",
+            "posterPath" : "/tNRnqTcrbJQQd4MfthlPXoY4FNC.jpg",
+            "runtimeMinutes" : 102,
+            "title" : "Foi Apenas um Acidente",
+            "tmdbId" : 1456349,
+            "writerNames" : [
+              "Jafar Panahi"
+            ],
+            "year" : "2025"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.864Z",
+          "listItemId" : "7532c473-a598-4a3c-9a8e-8d9629c3713f",
+          "order" : 180,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/9zRSriIJ7HwTFoVBCq8oMBDu2h2.jpg",
+            "title" : "A Cronologia da Água",
+            "tmdbId" : 524635,
+            "year" : "2025"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.871Z",
+          "listItemId" : "2941d776-5c3a-4867-ab6e-5611a413ead3",
+          "order" : 181,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/lOBKDPPIrPudMGs2RKLGUzHFZHY.jpg",
+            "title" : "A Garota Canhota",
+            "tmdbId" : 999075,
+            "year" : "2025"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.878Z",
+          "listItemId" : "6c5ccc67-db99-4148-b34f-e02fc08f8172",
+          "order" : 182,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/w5Ws1UCeTw1ywrvOG7ucu81mM6f.jpg",
+            "title" : "Pillion",
+            "tmdbId" : 1287141,
+            "year" : "2025"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.884Z",
+          "listItemId" : "db758381-5e27-4cdf-956d-24f5a09d637d",
+          "order" : 183,
+          "titleRef" : {
+            "mediaKind" : "tv",
+            "posterPath" : "/wG6GBTreXHoBhxsFY4vVSQtYey5.jpg",
+            "title" : "Dexter: Ressurreição",
+            "tmdbId" : 259909,
+            "year" : "2025"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.891Z",
+          "listItemId" : "052348e3-f57d-49af-b3b5-81e35df751fe",
+          "order" : 184,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/zXB71lnNiNPoOwLHjkCtsV7gng3.jpg",
+            "title" : "Sirāt",
+            "tmdbId" : 1151272,
+            "year" : "2025"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:27.898Z",
+          "listItemId" : "268b6194-3d4f-4bbc-9f3e-e009e714746e",
+          "order" : 185,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/51zXbTvKEHgCdGdVdlI0PpBjXCV.jpg",
+            "title" : "Urchin",
+            "tmdbId" : 1283320,
+            "year" : "2025"
+          }
+        },
+        {
+          "addedAt" : "2026-07-16T17:41:42.875Z",
+          "listItemId" : "0e0526bc-4106-45c7-9089-d3e0baf32664",
+          "order" : 186,
+          "titleRef" : {
+            "castNames" : [
+              "Matt Damon",
+              "Tom Holland",
+              "Anne Hathaway",
+              "Robert Pattinson",
+              "Lupita Nyong'o",
+              "Charlize Theron",
+              "Zendaya",
+              "Benny Safdie",
+              "Jon Bernthal",
+              "John Leguizamo",
+              "Himesh Patel",
+              "Mia Goth",
+              "Will Yun Lee",
+              "Jimmy Gonzáles",
+              "Elliot Page"
+            ],
+            "director" : "Christopher Nolan",
+            "genres" : [
+              "Aventura",
+              "Ação",
+              "Fantasia"
+            ],
+            "mediaKind" : "movie",
+            "originCountry" : "GB",
+            "posterPath" : "/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
+            "runtimeMinutes" : 172,
+            "title" : "A Odisseia",
+            "tmdbId" : 1368337,
+            "writerNames" : [
+              "Christopher Nolan",
+              "Homero"
+            ],
+            "year" : "2026"
+          }
+        },
+        {
+          "addedAt" : "2026-07-16T17:41:54.355Z",
+          "listItemId" : "b104e22e-8220-4158-9d0d-bca40840c282",
+          "order" : 187,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg",
+            "title" : "Homem-Aranha: Um Novo Dia",
+            "tmdbId" : 969681,
+            "year" : "2026"
+          }
+        },
+        {
+          "addedAt" : "2026-07-16T17:42:01.263Z",
+          "listItemId" : "e52cb04c-aa5d-4618-899c-bdff009226f2",
+          "order" : 188,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/f3yLlUrJDdDL8d4nxywyotN45SL.jpg",
+            "title" : "Predador: Terras Selvagens",
+            "tmdbId" : 1242898,
+            "year" : "2025"
+          }
+        },
+        {
+          "addedAt" : "2026-07-16T17:42:04.822Z",
+          "listItemId" : "fcce5ce5-3823-4f43-a3dc-dd9ccd962eff",
+          "order" : 189,
+          "titleRef" : {
+            "castNames" : [
+              "Nicholas Galitzine",
+              "Camila Mendes",
+              "Idris Elba",
+              "Jared Leto",
+              "Alison Brie",
+              "Jóhannes Haukur Jóhannesson",
+              "Jon Xue Zhang",
+              "Sam C. Wilson",
+              "James Purefoy",
+              "Charlotte Riley",
+              "Morena Baccarin",
+              "Kristen Wiig",
+              "Tom Wilton",
+              "Christiaan Bettridge",
+              "Artie Wilkinson-Hunt"
+            ],
+            "director" : "Travis Knight",
+            "genres" : [
+              "Ação",
+              "Fantasia",
+              "Ficção científica"
+            ],
+            "mediaKind" : "movie",
+            "originCountry" : "US",
+            "posterPath" : "/atpb7NKSyM4bJSUY8vQTunzK4Na.jpg",
+            "runtimeMinutes" : 133,
+            "title" : "Mestres do Universo",
+            "tmdbId" : 454639,
+            "writerNames" : [
+              "Chris Butler",
+              "Aaron Nee",
+              "Adam Nee",
+              "David Callaham",
+              "Aaron Nee",
+              "Adam Nee",
+              "Alex Litvak",
+              "Michael Finch"
+            ],
+            "year" : "2026"
+          }
+        },
+        {
+          "addedAt" : "2026-07-16T17:42:10.267Z",
+          "listItemId" : "3a197d72-9ec1-4b1d-81f6-cc56211b6f28",
+          "order" : 190,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/i29O7K4n3z5qB2SAJmSc0kR5dPj.jpg",
+            "title" : "Vingadores: Doutor Destino",
+            "tmdbId" : 1003596,
+            "year" : "2026"
+          }
+        },
+        {
+          "addedAt" : "2026-07-16T20:47:44.202Z",
+          "listItemId" : "c812d47d-9851-4137-93aa-564db93e7511",
+          "order" : 191,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/bazlgJAKWCBF7OllC3JtyJ2DV1n.jpg",
+            "title" : "O Enigma de Outro Mundo",
+            "tmdbId" : 1091,
+            "year" : "1982"
+          }
+        },
+        {
+          "addedAt" : "2026-07-16T20:48:45.519Z",
+          "listItemId" : "4084a083-1966-4da3-9f95-eb2f2839229d",
+          "order" : 192,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/6XIXgfckwuy4cGMe4P0anApUyE8.jpg",
+            "title" : "Angel's Egg",
+            "tmdbId" : 15916,
+            "year" : "1985"
+          }
+        },
+        {
+          "addedAt" : "2026-07-16T20:48:45.520Z",
+          "listItemId" : "638c9f96-fe55-4719-ba3a-237f26fd65ee",
+          "order" : 193,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/MMpelAvmMI4nMmPO7D1jMBQDKI.jpg",
+            "title" : "Vítor ou Vitória?",
+            "tmdbId" : 12614,
+            "year" : "1982"
+          }
+        },
+        {
+          "addedAt" : "2026-07-16T22:22:21.460Z",
+          "listItemId" : "2a0d511a-d265-4b3f-826b-5a25552ba4f7",
+          "order" : 194,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/gsCvaK3jYniSCBJKxKu8Qwr3jf2.jpg",
+            "title" : "Adeus, Minha Concubina",
+            "tmdbId" : 10997,
+            "year" : "1993"
+          }
+        },
+        {
+          "addedAt" : "2026-07-17T00:45:24.377Z",
+          "listItemId" : "ba75fb1d-9e60-4e2e-8e74-3321322a244d",
+          "order" : 195,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/l9EfmQIjwixYpcXtceeMLt9SVww.jpg",
+            "title" : "O Mais Longo dos Dias",
+            "tmdbId" : 9289,
+            "year" : "1962"
+          }
+        },
+        {
+          "addedAt" : "2026-07-17T00:45:24.378Z",
+          "listItemId" : "b460735e-cdd4-45cf-81b3-2abb88c1e8a6",
+          "order" : 196,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/omZs5505ceaHXhh4FL2TpmpVC94.jpg",
+            "title" : "Se Meu Apartamento Falasse",
+            "tmdbId" : 284,
+            "year" : "1960"
+          }
+        },
+        {
+          "addedAt" : "2026-07-17T00:45:24.380Z",
+          "listItemId" : "ed33f617-3dbf-44db-bd68-a20e888a4eec",
+          "order" : 197,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/erPwY8mjlzSV2u9wIoRfzwg5C9J.jpg",
+            "title" : "Rebeldia Indomável",
+            "tmdbId" : 903,
+            "year" : "1967"
+          }
+        },
+        {
+          "addedAt" : "2026-07-17T00:46:27.835Z",
+          "listItemId" : "f0c02c56-edf9-46e2-bf27-8d25862dfb73",
+          "order" : 198,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/nQkrZRxnvrkb6BV7ZYmdwJoFGDt.jpg",
+            "title" : "Oito e Meio",
+            "tmdbId" : 422,
+            "year" : "1963"
+          }
+        },
+        {
+          "addedAt" : "2026-07-17T00:47:24.261Z",
+          "listItemId" : "34c7534d-6c7c-46fa-95ed-8113bc74261a",
+          "order" : 199,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/duTBwrPiJV75xGSzq1Xe68UCrdw.jpg",
+            "title" : "Acossado",
+            "tmdbId" : 269,
+            "year" : "1960"
+          }
+        },
+        {
+          "addedAt" : "2026-07-17T00:47:24.263Z",
+          "listItemId" : "3bb4617d-bb6e-45e1-8ac8-1d56b494292f",
+          "order" : 200,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/p1Qab5pv7bOlu4N3Jjo2fkyp4ym.jpg",
+            "title" : "Cléo das 5 às 7",
+            "tmdbId" : 499,
+            "year" : "1962"
+          }
+        },
+        {
+          "addedAt" : "2026-07-17T01:47:59.785Z",
+          "listItemId" : "7bb50b8c-a278-4845-ae0b-a853a196f425",
+          "order" : 201,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/4OcwSxm47cmxT04MyGgI8aBfTlZ.jpg",
+            "title" : "A Família Addams 2",
+            "tmdbId" : 2758,
+            "year" : "1993"
+          }
+        }
+      ],
+      "listId" : "b10f86fa-a7f2-4093-a1dd-8eafa5826850",
+      "pinned" : true,
+      "title" : "Watchlist",
+      "updatedAt" : "2026-07-26T20:47:26.423Z"
+    },
+    {
+      "createdAt" : "2026-07-13T22:20:33.611Z",
+      "items" : [
+        {
+          "addedAt" : "2026-07-13T22:20:33.619Z",
+          "listItemId" : "8e2dfe8c-8dd1-407c-93c7-66e4064ccf26",
+          "order" : 0,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/jgtyi0Zvy7lneXTVsOGjT57hZCt.jpg",
+            "title" : "Daunbailó",
+            "tmdbId" : 1554,
+            "year" : "1986"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:33.627Z",
+          "listItemId" : "c25ebc10-58a9-46a9-94ec-98498ba29442",
+          "order" : 1,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/wHITh5qpAZr9e9Q7mtxXYReJxt2.jpg",
+            "title" : "Os Incompreendidos",
+            "tmdbId" : 147,
+            "year" : "1959"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:33.635Z",
+          "listItemId" : "8588476a-a9d5-4287-a924-dd77649af0c1",
+          "order" : 2,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/j6dPZE7rCaLW3ArijfmCcQXsh5W.jpg",
+            "title" : "O Homem das Novidades",
+            "tmdbId" : 31411,
+            "year" : "1928"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:33.643Z",
+          "listItemId" : "5e363aa0-39fd-428e-b5b7-d709971cc68f",
+          "order" : 3,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/e4v3mNc9SvSnESPN9z1zvivkEs0.jpg",
+            "title" : "Kagemusha, a Sombra do Samurai",
+            "tmdbId" : 11953,
+            "year" : "1980"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:33.651Z",
+          "listItemId" : "70632282-e3ee-4868-8162-847b69fd375b",
+          "order" : 4,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/izuJ7cUhcihFnTpfsdSnkMCHsRQ.jpg",
+            "title" : "Wanda",
+            "tmdbId" : 80560,
+            "year" : "1970"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:33.659Z",
+          "listItemId" : "3f86b9ab-1696-483e-8a08-2cd5332d28fb",
+          "order" : 5,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/moL7AWgl5o50ChwSxTQ6YBPCM0.jpg",
+            "title" : "Viajo Porque Preciso, Volto Porque Te Amo",
+            "tmdbId" : 87199,
+            "year" : "2010"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:33.667Z",
+          "listItemId" : "a44027d2-c5e7-45e7-8dd1-91fa6c0f9c0b",
+          "order" : 6,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/zqJ0fjz3TdpbUIAlVaDQ7wd8Brh.jpg",
+            "title" : "Bom Trabalho",
+            "tmdbId" : 14626,
+            "year" : "2000"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:33.675Z",
+          "listItemId" : "146e92b8-181e-4355-85f4-3307653fde09",
+          "order" : 7,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/naP3GzNwagWSKpRPubl3a6t1k9f.jpg",
+            "title" : "Até o Fim do Mundo",
+            "tmdbId" : 10341,
+            "year" : "1991"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:33.683Z",
+          "listItemId" : "102e6a32-ac9b-4e87-a893-1b3d4df09b67",
+          "order" : 8,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/g4H2oJ4AYswQMeXtgOpP2pStQRm.jpg",
+            "title" : "A Grande Testemunha",
+            "tmdbId" : 20108,
+            "year" : "1966"
+          }
+        },
+        {
+          "addedAt" : "2026-07-13T22:20:33.691Z",
+          "listItemId" : "627c5f90-3185-4144-9d9c-5eb1f1fca9ed",
+          "order" : 9,
+          "titleRef" : {
+            "mediaKind" : "movie",
+            "posterPath" : "/65XExPWHtgemDHsCksk2K2HCaNS.jpg",
+            "title" : "Mouchette, A Virgem Possuída",
+            "tmdbId" : 1561,
+            "year" : "1967"
+          }
+        }
+      ],
+      "listId" : "fe227a63-3d9a-4c8b-992a-97d7bbece32b",
+      "pinned" : false,
+      "title" : "Win Wenders - Criterion Closet",
+      "updatedAt" : "2026-07-13T22:20:34.398Z"
+    }
+  ],
+  "schemaVersion" : 1
+}

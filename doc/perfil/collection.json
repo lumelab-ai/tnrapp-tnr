@@ -1,0 +1,620 @@
+{
+  "items" : [
+    {
+      "addedAt" : "2026-07-25T13:59:50.000Z",
+      "details" : [
+        "Região 4",
+        "Single",
+        "Comentários",
+        "Aberto",
+        "Cinema",
+        "Making of"
+      ],
+      "format" : "DVD duplo",
+      "itemId" : "40ec0737-8f4a-4257-b236-df30c99250bd",
+      "tags" : [],
+      "titleRef" : {
+        "mediaKind" : "movie",
+        "posterPath" : "/4XbTJgz5zADYp4fX6DbdhZga39q.jpg",
+        "title" : "Metrópolis",
+        "tmdbId" : 9606,
+        "year" : "2001"
+      },
+      "updatedAt" : "2026-07-25T13:59:50.910Z"
+    },
+    {
+      "addedAt" : "2026-07-25T14:00:17.000Z",
+      "details" : [
+        "Single",
+        "Região 4",
+        "Aberto",
+        "Cinema"
+      ],
+      "format" : "DVD-Video",
+      "itemId" : "80a31702-3757-42d2-9cf2-3364ec204d39",
+      "tags" : [],
+      "titleRef" : {
+        "castNames" : [
+          "Ethan Hawke",
+          "Julie Delpy",
+          "Andrea Eckert",
+          "Hanno Pöschl",
+          "Karl Bruckschwaiger",
+          "Tex Rubinowitz",
+          "Erni Mangold",
+          "Dominik Castell",
+          "Haymon Maria Buttinger",
+          "Harold Waiglein",
+          "Bilge Jeschim",
+          "Kurti",
+          "Hans Weingartner",
+          "Liese Lyon",
+          "Peter Ily Huemer"
+        ],
+        "director" : "Richard Linklater",
+        "genres" : [
+          "Drama",
+          "Romance"
+        ],
+        "mediaKind" : "movie",
+        "originCountry" : "US",
+        "posterPath" : "/gUD2xpkiWaCUabnwMgopECylsKc.jpg",
+        "runtimeMinutes" : 100,
+        "title" : "Antes do Amanhecer",
+        "tmdbId" : 76,
+        "writerNames" : [
+          "Kim Krizan",
+          "Richard Linklater"
+        ],
+        "year" : "1995"
+      },
+      "updatedAt" : "2026-07-26T20:47:26.423Z"
+    },
+    {
+      "addedAt" : "2026-07-25T14:00:43.000Z",
+      "details" : [
+        "Aberto",
+        "Single",
+        "Cinema",
+        "Região 4"
+      ],
+      "format" : "DVD-Video",
+      "itemId" : "0e5f7439-d906-4004-980d-2306c247901b",
+      "tags" : [
+        "Favoritos"
+      ],
+      "titleRef" : {
+        "castNames" : [
+          "Ethan Hawke",
+          "Julie Delpy",
+          "Vernon Dobtcheff",
+          "Louise Lemoine Torrès",
+          "Rodolphe Pauly",
+          "Mariane Plasteig",
+          "Diabolo",
+          "Denis Evrard",
+          "Albert Delpy",
+          "Marie Pillet"
+        ],
+        "director" : "Richard Linklater",
+        "genres" : [
+          "Drama",
+          "Romance"
+        ],
+        "mediaKind" : "movie",
+        "originCountry" : "US",
+        "posterPath" : "/pU7Q1s4wgmD46QoDToqcQZDGLy9.jpg",
+        "runtimeMinutes" : 80,
+        "title" : "Antes do Pôr do Sol",
+        "tmdbId" : 80,
+        "writerNames" : [
+          "Richard Linklater",
+          "Ethan Hawke",
+          "Julie Delpy",
+          "Richard Linklater",
+          "Kim Krizan"
+        ],
+        "year" : "2004"
+      },
+      "updatedAt" : "2026-07-26T20:47:26.423Z"
+    },
+    {
+      "addedAt" : "2026-07-25T14:01:28.000Z",
+      "details" : [
+        "Box / Coletânea",
+        "Aberto",
+        "Cinema",
+        "Região 4"
+      ],
+      "format" : "DVD-Video",
+      "itemId" : "0e910609-07ce-4d25-aae1-757507ac761c",
+      "tags" : [
+        "Favoritos"
+      ],
+      "titleRef" : {
+        "castNames" : [
+          "Harrison Ford",
+          "Sean Connery",
+          "Denholm Elliott",
+          "Alison Doody",
+          "John Rhys-Davies",
+          "Julian Glover",
+          "River Phoenix",
+          "Michael Byrne",
+          "Kevork Malikyan",
+          "Robert Eddison",
+          "Richard Young",
+          "Alexei Sayle",
+          "Alex Hyde-White",
+          "Paul Maxwell",
+          "Isla Blair"
+        ],
+        "director" : "Steven Spielberg",
+        "genres" : [
+          "Aventura",
+          "Ação"
+        ],
+        "mediaKind" : "movie",
+        "originCountry" : "US",
+        "posterPath" : "/cJP4wT4RB85E3gbwRe3LWJORXXM.jpg",
+        "runtimeMinutes" : 127,
+        "title" : "Indiana Jones e a Última Cruzada",
+        "tmdbId" : 89,
+        "writerNames" : [
+          "Jeffrey Boam",
+          "Menno Meyjes",
+          "George Lucas"
+        ],
+        "year" : "1989"
+      },
+      "updatedAt" : "2026-07-26T20:47:26.423Z"
+    },
+    {
+      "addedAt" : "2026-07-25T14:02:01.000Z",
+      "details" : [
+        "Cinema",
+        "Box / Coletânea",
+        "Aberto",
+        "Região 4"
+      ],
+      "format" : "DVD-Video",
+      "itemId" : "540675d5-4a27-4fd0-a386-d93d0b40b5e8",
+      "tags" : [
+        "Favoritos"
+      ],
+      "titleRef" : {
+        "castNames" : [
+          "Harrison Ford",
+          "Karen Allen",
+          "Paul Freeman",
+          "John Rhys-Davies",
+          "Ronald Lacey",
+          "Wolf Kahler",
+          "Anthony Higgins",
+          "Denholm Elliott",
+          "Alfred Molina",
+          "Vic Tablian",
+          "Don Fellows",
+          "William Hootkins",
+          "George Harris",
+          "Fred Sorenson",
+          "Anthony Chinn"
+        ],
+        "director" : "Steven Spielberg",
+        "genres" : [
+          "Aventura",
+          "Ação"
+        ],
+        "mediaKind" : "movie",
+        "originCountry" : "US",
+        "posterPath" : "/mtf7iKZRdsL6qbbCnd2TAxOfJYg.jpg",
+        "runtimeMinutes" : 115,
+        "title" : "Indiana Jones e os Caçadores da Arca Perdida",
+        "tmdbId" : 85,
+        "writerNames" : [
+          "Philip Kaufman",
+          "George Lucas",
+          "Lawrence Kasdan"
+        ],
+        "year" : "1981"
+      },
+      "updatedAt" : "2026-07-26T20:47:26.423Z"
+    },
+    {
+      "addedAt" : "2026-07-25T14:02:37.000Z",
+      "details" : [
+        "Região 4",
+        "Cinema",
+        "Aberto",
+        "Box / Coletânea"
+      ],
+      "format" : "DVD-Video",
+      "itemId" : "823421ad-4d92-4d30-b539-c4ef3227e5cf",
+      "tags" : [
+        "Favoritos"
+      ],
+      "titleRef" : {
+        "castNames" : [
+          "Harrison Ford",
+          "Kate Capshaw",
+          "Ke Huy Quan",
+          "Amrish Puri",
+          "Roshan Seth",
+          "Philip Stone",
+          "喬宏",
+          "David Yip",
+          "Ric Young",
+          "Chua Kah Joo",
+          "Rex Ngui",
+          "Philip Tan",
+          "Dan Aykroyd",
+          "Akio Mitamura",
+          "Michael Yama"
+        ],
+        "director" : "Steven Spielberg",
+        "genres" : [
+          "Aventura",
+          "Ação"
+        ],
+        "mediaKind" : "movie",
+        "originCountry" : "US",
+        "posterPath" : "/zhcPKAXEWW76ZAjzsEm3XsHxD05.jpg",
+        "runtimeMinutes" : 118,
+        "title" : "Indiana Jones e o Templo da Perdição",
+        "tmdbId" : 87,
+        "writerNames" : [
+          "Gloria Katz",
+          "Willard Huyck",
+          "George Lucas"
+        ],
+        "year" : "1984"
+      },
+      "updatedAt" : "2026-07-26T20:47:26.423Z"
+    },
+    {
+      "addedAt" : "2026-07-25T14:03:14.000Z",
+      "details" : [
+        "Single"
+      ],
+      "format" : "DVD-Video",
+      "itemId" : "06f289fd-c54d-412d-af14-50ca63bc3e4d",
+      "tags" : [
+        "Favoritos"
+      ],
+      "titleRef" : {
+        "castNames" : [
+          "Keanu Reeves",
+          "Laurence Fishburne",
+          "Carrie-Anne Moss",
+          "Hugo Weaving",
+          "Gloria Foster",
+          "Joe Pantoliano",
+          "Marcus Chong",
+          "Julian Arahanga",
+          "Matt Doran",
+          "Belinda McClory",
+          "Anthony Ray Parker",
+          "Paul Goddard",
+          "Robert Taylor",
+          "David Aston",
+          "Marc Aden Gray"
+        ],
+        "director" : "Lana Wachowski",
+        "genres" : [
+          "Ação",
+          "Ficção científica"
+        ],
+        "mediaKind" : "movie",
+        "originCountry" : "US",
+        "posterPath" : "/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg",
+        "runtimeMinutes" : 136,
+        "title" : "Matrix",
+        "tmdbId" : 603,
+        "writerNames" : [
+          "Lana Wachowski",
+          "Lilly Wachowski"
+        ],
+        "year" : "1999"
+      },
+      "updatedAt" : "2026-07-26T20:47:26.423Z"
+    },
+    {
+      "addedAt" : "2026-07-25T14:03:29.000Z",
+      "details" : [
+        "Single"
+      ],
+      "format" : "DVD-Video",
+      "itemId" : "9d0bfdc1-24b8-43f0-9431-18ae45db0b95",
+      "tags" : [
+        "Favoritos"
+      ],
+      "titleRef" : {
+        "castNames" : [
+          "Keanu Reeves",
+          "Laurence Fishburne",
+          "Carrie-Anne Moss",
+          "Hugo Weaving",
+          "Jada Pinkett Smith",
+          "Mary Alice",
+          "Harold Perrineau",
+          "鄒兆龍",
+          "Harry Lennix",
+          "Ian Bliss",
+          "Lambert Wilson",
+          "Bruce Spence",
+          "Monica Bellucci",
+          "Nona Gaye",
+          "Anthony Zerbe"
+        ],
+        "director" : "Lilly Wachowski",
+        "genres" : [
+          "Aventura",
+          "Ação",
+          "Thriller",
+          "Ficção científica"
+        ],
+        "mediaKind" : "movie",
+        "originCountry" : "US",
+        "posterPath" : "/92oJ810bYqijBQ8tqYL74mSpPtV.jpg",
+        "runtimeMinutes" : 129,
+        "title" : "Matrix Revolutions",
+        "tmdbId" : 605,
+        "writerNames" : [
+          "Lilly Wachowski",
+          "Lana Wachowski"
+        ],
+        "year" : "2003"
+      },
+      "updatedAt" : "2026-07-26T20:47:26.423Z"
+    },
+    {
+      "addedAt" : "2026-07-25T14:03:44.000Z",
+      "details" : [
+        "Single"
+      ],
+      "format" : "DVD-Video",
+      "itemId" : "22018bfb-253a-4e6b-a9e7-61e36eff9292",
+      "tags" : [
+        "Favoritos"
+      ],
+      "titleRef" : {
+        "castNames" : [
+          "Keanu Reeves",
+          "Laurence Fishburne",
+          "Carrie-Anne Moss",
+          "Hugo Weaving",
+          "Jada Pinkett Smith",
+          "Gloria Foster",
+          "Harold Perrineau",
+          "Monica Bellucci",
+          "Harry Lennix",
+          "Lambert Wilson",
+          "Randall Duk Kim",
+          "Nona Gaye",
+          "Anthony Zerbe",
+          "Daniel Bernhardt",
+          "Helmut Bakaitis"
+        ],
+        "director" : "Lana Wachowski",
+        "genres" : [
+          "Aventura",
+          "Ação",
+          "Thriller",
+          "Ficção científica"
+        ],
+        "mediaKind" : "movie",
+        "originCountry" : "US",
+        "posterPath" : "/ayZkaN2f3ASjWW8ooCfuJT3T8Va.jpg",
+        "runtimeMinutes" : 138,
+        "title" : "Matrix Reloaded",
+        "tmdbId" : 604,
+        "writerNames" : [
+          "Lana Wachowski",
+          "Lilly Wachowski"
+        ],
+        "year" : "2003"
+      },
+      "updatedAt" : "2026-07-26T20:47:26.423Z"
+    },
+    {
+      "addedAt" : "2026-07-25T14:04:05.000Z",
+      "details" : [],
+      "format" : "Blu-ray (1080p)",
+      "itemId" : "61c86839-751e-4b1f-b214-5faf94197ee2",
+      "tags" : [],
+      "titleRef" : {
+        "castNames" : [
+          "Orson Welles",
+          "Joseph Cotten",
+          "Dorothy Comingore",
+          "Ray Collins",
+          "George Coulouris",
+          "Agnes Moorehead",
+          "Paul Stewart",
+          "Ruth Warrick",
+          "Erskine Sanford",
+          "William Alland",
+          "Everett Sloane",
+          "Fortunio Bonanova",
+          "Gus Schilling",
+          "Philip Van Zandt",
+          "Georgia Backus"
+        ],
+        "director" : "Orson Welles",
+        "genres" : [
+          "Mistério",
+          "Drama"
+        ],
+        "mediaKind" : "movie",
+        "originCountry" : "US",
+        "posterPath" : "/2pJ2voOH3QqfgDygG6e9W48YBLt.jpg",
+        "runtimeMinutes" : 119,
+        "title" : "Cidadão Kane",
+        "tmdbId" : 15,
+        "writerNames" : [
+          "Orson Welles",
+          "Herman J. Mankiewicz"
+        ],
+        "year" : "1941"
+      },
+      "updatedAt" : "2026-07-26T20:47:26.423Z"
+    },
+    {
+      "addedAt" : "2026-07-25T14:05:23.000Z",
+      "details" : [
+        "Edição especial",
+        "Estendida / do diretor",
+        "Box / Coletânea"
+      ],
+      "format" : "Blu-ray 4K UHD",
+      "itemId" : "b0fb125b-5796-4d6c-b77f-9dbd8ab64e06",
+      "tags" : [
+        "Favoritos"
+      ],
+      "titleRef" : {
+        "castNames" : [
+          "Elijah Wood",
+          "Ian McKellen",
+          "Viggo Mortensen",
+          "Sean Astin",
+          "Ian Holm",
+          "Liv Tyler",
+          "Christopher Lee",
+          "Sean Bean",
+          "Billy Boyd",
+          "Dominic Monaghan",
+          "John Rhys-Davies",
+          "Orlando Bloom",
+          "Cate Blanchett",
+          "Hugo Weaving",
+          "Andy Serkis"
+        ],
+        "director" : "Peter Jackson",
+        "genres" : [
+          "Aventura",
+          "Fantasia",
+          "Ação"
+        ],
+        "mediaKind" : "movie",
+        "originCountry" : "US",
+        "posterPath" : "/tlvsNCwWEIgwAM23aNzTmMIcPEZ.jpg",
+        "runtimeMinutes" : 179,
+        "title" : "O Senhor dos Anéis: A Sociedade do Anel",
+        "tmdbId" : 120,
+        "writerNames" : [
+          "Peter Jackson",
+          "Fran Walsh",
+          "Philippa Boyens",
+          "J. R. R. Tolkien"
+        ],
+        "year" : "2001"
+      },
+      "updatedAt" : "2026-07-26T20:47:26.423Z"
+    },
+    {
+      "addedAt" : "2026-07-25T14:05:58.000Z",
+      "details" : [
+        "Box / Coletânea",
+        "Estendida / do diretor"
+      ],
+      "format" : "Blu-ray 4K UHD",
+      "itemId" : "16aebda9-b0f9-404a-ab84-abbd8372f0c7",
+      "tags" : [
+        "Favoritos"
+      ],
+      "titleRef" : {
+        "castNames" : [
+          "Elijah Wood",
+          "Ian McKellen",
+          "Viggo Mortensen",
+          "Sean Astin",
+          "Andy Serkis",
+          "John Rhys-Davies",
+          "Orlando Bloom",
+          "Bernard Hill",
+          "Miranda Otto",
+          "Dominic Monaghan",
+          "Billy Boyd",
+          "Christopher Lee",
+          "Cate Blanchett",
+          "Liv Tyler",
+          "Hugo Weaving"
+        ],
+        "director" : "Peter Jackson",
+        "genres" : [
+          "Aventura",
+          "Fantasia",
+          "Ação"
+        ],
+        "mediaKind" : "movie",
+        "originCountry" : "US",
+        "posterPath" : "/mCs8vxvScCqVM3YFMQIdbrdFEhu.jpg",
+        "runtimeMinutes" : 180,
+        "title" : "O Senhor dos Anéis: As Duas Torres",
+        "tmdbId" : 121,
+        "writerNames" : [
+          "Stephen Sinclair",
+          "Philippa Boyens",
+          "Peter Jackson",
+          "J. R. R. Tolkien",
+          "Fran Walsh"
+        ],
+        "year" : "2002"
+      },
+      "updatedAt" : "2026-07-26T20:47:26.423Z"
+    },
+    {
+      "addedAt" : "2026-07-25T14:06:19.000Z",
+      "details" : [
+        "Estendida / do diretor",
+        "Edição especial",
+        "Box / Coletânea"
+      ],
+      "format" : "Blu-ray 4K UHD",
+      "itemId" : "3c12df8d-2c65-48a8-84c8-468971465091",
+      "tags" : [
+        "Favoritos"
+      ],
+      "titleRef" : {
+        "castNames" : [
+          "Elijah Wood",
+          "Ian McKellen",
+          "Viggo Mortensen",
+          "Sean Astin",
+          "Andy Serkis",
+          "Dominic Monaghan",
+          "Billy Boyd",
+          "John Noble",
+          "David Wenham",
+          "Miranda Otto",
+          "Bernard Hill",
+          "John Rhys-Davies",
+          "Orlando Bloom",
+          "Hugo Weaving",
+          "Liv Tyler"
+        ],
+        "director" : "Peter Jackson",
+        "genres" : [
+          "Aventura",
+          "Fantasia",
+          "Ação"
+        ],
+        "mediaKind" : "movie",
+        "originCountry" : "US",
+        "posterPath" : "/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
+        "runtimeMinutes" : 202,
+        "title" : "O Senhor dos Anéis: O Retorno do Rei",
+        "tmdbId" : 122,
+        "writerNames" : [
+          "J. R. R. Tolkien",
+          "Peter Jackson",
+          "Philippa Boyens",
+          "Fran Walsh"
+        ],
+        "year" : "2003"
+      },
+      "updatedAt" : "2026-07-26T20:47:26.423Z"
+    }
+  ],
+  "schemaVersion" : 1
+}

@@ -1,0 +1,10 @@
+{
+  "id": "tnrapp-tnr",
+  "name": "TNR - Track 'n' Review",
+  "version": "1.0.0",
+  "minAppVersion": "1.11.4",
+  "description": "Busca filmes/séries no TMDB e insere cards com embed (com ou sem elenco) na posição do cursor.",
+  "author": "Lucas",
+  "authorUrl": "https://github.com/lucas",
+  "isDesktopOnly": false
+}
