@@ -1,0 +1,20 @@
+{
+  "profile" : {
+    "avatarAssetPath" : "assets/avatar.jpg",
+    "avatarStyle" : {
+      "endHex" : "#5A2336",
+      "startHex" : "#C8553D"
+    },
+    "bio" : "Ilha das Flores e E.T. são o ponto zero. ",
+    "countryCode" : "BR",
+    "favoriteTitleRef" : {
+      "mediaKind" : "movie",
+      "title" : "Ilha das Flores",
+      "tmdbId" : 45318
+    },
+    "name" : "Luc",
+    "profileId" : "537adfdd-ab5e-45e3-9597-a4836de6e400",
+    "updatedAt" : "2026-07-15T18:03:11.212Z"
+  },
+  "schemaVersion" : 1
+}

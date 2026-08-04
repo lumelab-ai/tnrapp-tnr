@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Card TNR — Perfil de Pessoa (Ator/Diretor)</title>
+<style>
+  :root {
+    --bg: #f5f3ef;
+    --panel: #ffffff;
+    --text: #1e1b16;
+    --muted: #6b665c;
+    --border: #e4e0d8;
+    --accent: #c8553d;
+    --accent-soft: rgba(200, 85, 61, 0.10);
+    --good: #2f7d4f;
+    --good-soft: rgba(47, 125, 79, 0.10);
+    --code-bg: #efece6;
+  }
+  [data-theme="dark"] {
+    --bg: #191919;
+    --panel: #212121;
+    --text: #eaeaea;
+    --muted: #9a9488;
+    --border: #333333;
+    --accent: #d0654d;
+    --accent-soft: rgba(208, 101, 77, 0.12);
+    --good: #5ec286;
+    --good-soft: rgba(94, 194, 134, 0.12);
+    --code-bg: #2a2a2a;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    padding: 40px 20px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    transition: background 0.3s, color 0.3s;
+  }
+
+  .wrap { max-width: 760px; margin: 0 auto; }
+
+  .topbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 32px;
+  }
+  .topbar h1 { margin: 0; font-size: 20px; font-weight: 700; }
+  .topbar p { margin: 4px 0 0; color: var(--muted); font-size: 13px; }
+
+  .toggle {
+    border: 1px solid var(--border);
+    background: var(--panel);
+    color: var(--text);
+    padding: 8px 14px;
+    border-radius: 999px;
+    font-size: 13px;
+    cursor: pointer;
+  }
+
+  .label { font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 28px 0 12px; }
+
+  /* ===== Card (Callout Obsidian) ===== */
+  .callout {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 16px 12px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+    position: relative;
+  }
+
+  .callout + .callout { margin-top: 14px; }
+
+  .card { display: flex; gap: 18px; }
+
+  .photo {
+    flex: 0 0 auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    background: linear-gradient(135deg, #c8553d, #5a2336);
+    box-shadow: 0 3px 10px rgba(0,0,0,0.25);
+    margin-top: 4px;
+  }
+  .photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .logo {
+    position: absolute;
+    top: 14px;
+    right: 16px;
+    width: 30px;
+    height: 30px;
+    border-radius: 7px;
+    overflow: hidden;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+    opacity: 0.9;
+    transition: opacity 0.2s, transform 0.2s;
+    text-decoration: none;
+  }
+  .logo:hover { opacity: 1; transform: scale(1.06); }
+  .logo svg { display: block; width: 100%; height: 100%; }
+
+  .info { flex: 1; min-width: 0; }
+
+  .title-line { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .title { font-size: 19px; font-weight: 700; line-height: 1.25; }
+  .dept {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--accent);
+    background: var(--accent-soft);
+    border-radius: 999px;
+    padding: 3px 10px;
+    white-space: nowrap;
+  }
+
+  .meta {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 3px 12px;
+    margin: 10px 0;
+    font-size: 13px;
+  }
+  .meta .k { color: var(--muted); white-space: nowrap; }
+  .meta .v { font-weight: 500; }
+
+  .bio {
+    font-size: 13px;
+    color: var(--text);
+    line-height: 1.5;
+    border-top: 1px solid var(--border);
+    padding-top: 9px;
+  }
+  .expand {
+    display: inline-block;
+    margin-top: 6px;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--accent);
+    text-decoration: underline;
+    cursor: pointer;
+  }
+
+  /* ===== Seção "Na sua memória" ===== */
+  .mem-section {
+    margin-top: 12px;
+    border-top: 1px solid var(--border);
+    padding-top: 10px;
+  }
+  .mem-head {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    color: var(--accent);
+    font-weight: 600;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 10px;
+  }
+  .mem-head svg { width: 15px; height: 15px; flex: 0 0 auto; }
+
+  .mem-stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+  .mem-stat {
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 10px 12px;
+    background: var(--code-bg);
+    text-align: center;
+  }
+  .mem-stat .big {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1.1;
+    color: var(--text);
+  }
+  .mem-stat .big.good { color: var(--good); }
+  .mem-stat .cap {
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 3px;
+  }
+
+  .stars {
+    position: relative;
+    display: inline-block;
+    font-size: 17px;
+    line-height: 1;
+    letter-spacing: 2px;
+    color: var(--border);
+    vertical-align: -1px;
+  }
+  .stars .fill {
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    color: #e0a92e;
+  }
+
+  /* ===== Conhecido por (filmes na memória) ===== */
+  .known { margin-top: 12px; border-top: 1px solid var(--border); padding-top: 10px; }
+  .known-label {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--muted);
+    margin-bottom: 8px;
+  }
+  .known-track {
+    display: flex;
+    gap: 12px;
+    overflow-x: auto;
+    scrollbar-width: none;
+    padding: 2px 0;
+  }
+  .known-track::-webkit-scrollbar { display: none; }
+  .known-item { flex: 0 0 auto; width: 92px; text-align: center; }
+  .known-poster {
+    width: 92px;
+    aspect-ratio: 2/3;
+    border-radius: 6px;
+    overflow: hidden;
+    background: linear-gradient(135deg, #c8553d, #5a2336);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+  }
+  .known-poster img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .known-title { font-size: 10px; color: var(--text); margin-top: 4px; line-height: 1.2; }
+  .known-year { font-size: 10px; color: var(--muted); }
+  .known-rating { font-size: 10px; color: #e0a92e; font-weight: 600; }
+
+  .tmdb {
+    display: inline-block;
+    margin-top: 9px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 11px;
+    color: var(--muted);
+    background: var(--code-bg);
+    border-radius: 5px;
+    padding: 2px 8px;
+  }
+
+  /* ===== Markdown ===== */
+  pre {
+    background: var(--code-bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 16px;
+    overflow-x: auto;
+    font-size: 13px;
+    line-height: 1.6;
+  }
+  pre .c { color: var(--muted); }
+
+  .note {
+    margin-top: 24px;
+    font-size: 13px;
+    color: var(--muted);
+    line-height: 1.5;
+    border: 1px dashed var(--border);
+    border-radius: 8px;
+    padding: 12px 14px;
+  }
+  .note strong { color: var(--text); }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="topbar">
+      <div>
+        <h1>TNR — Card de pessoa (ator/diretor)</h1>
+        <p>Como o card aparece no post (callout <code>!tnr-person</code>)</p>
+      </div>
+      <button class="toggle" onclick="toggleTheme()">Alternar tema</button>
+    </div>
+
+    <div class="label">Visualização no editor (modo leitura) — Exemplo 1: Ator</div>
+
+    <!-- ===== CARD DE ATOR ===== -->
+    <div class="callout">
+      <a class="logo" href="https://tnrapp.com" target="_blank" rel="noopener" title="TNR — Track 'n' Review">
+        <svg viewBox="0 0 128 128" role="img" aria-label="TNR">
+          <defs>
+            <linearGradient id="gLogoA" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0" stop-color="#c8553d"/>
+              <stop offset="1" stop-color="#5a2336"/>
+            </linearGradient>
+          </defs>
+          <rect width="128" height="128" fill="url(#gLogoA)"/>
+          <text x="64" y="76" font-family="-apple-system, 'Segoe UI', Arial, sans-serif" font-size="34" font-weight="800" fill="#fff" text-anchor="middle">TNR</text>
+        </svg>
+      </a>
+
+      <div class="card">
+        <div class="photo">
+          <img src="https://i.pravatar.cc/300?img=11" alt="Foto de Matt Damon"
+               onerror="this.style.display='none'">
+        </div>
+
+        <div class="info">
+          <div class="title-line">
+            <span class="title">Matt Damon</span>
+            <span class="dept">Atuação</span>
+          </div>
+
+          <div class="meta">
+            <span class="k">Nascimento</span>
+            <span class="v">08/10/1970</span>
+            <span class="k">Local</span>
+            <span class="v">Cambridge, EUA</span>
+            <span class="k">Funções</span>
+            <span class="v">Ator · Roteirista</span>
+          </div>
+
+          <div class="bio">
+            Ator e roteirista americano, vencedor do Oscar de Melhor Roteiro Original por Gênio Indomável.
+            Tornou-se uma das maiores estrelas de Hollywood, conhecido pela trilogia Bourne, pela franquia
+            Onze Homens e por parcerias recorrentes com diretores como…
+            <span class="expand">Expandir</span>
+          </div>
+
+          <div class="mem-section">
+            <div class="mem-head">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+              </svg>
+              Na sua memória
+            </div>
+
+            <div class="mem-stats">
+              <div class="mem-stat">
+                <div class="big">23</div>
+                <div class="cap">filmes na memória</div>
+              </div>
+              <div class="mem-stat">
+                <div class="big good">
+                  <span class="stars" data-avg="2.5">
+                    ★★★★★
+                    <span class="fill">★★★★★</span>
+                  </span>
+                  2.5
+                </div>
+                <div class="cap">nota média</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="known">
+            <div class="known-label">Seus filmes na memória</div>
+            <div class="known-track">
+              <div class="known-item">
+                <div class="known-poster">
+                  <img src="https://image.tmdb.org/t/p/w342/q18OhXWdS0WncHminNK7A7uiEvc.jpg" alt="A Identidade Bourne" onerror="this.style.display='none'">
+                </div>
+                <div class="known-title">A Identidade Bourne</div>
+                <div class="known-year">2002</div>
+                <div class="known-rating">★ 4.0</div>
+              </div>
+              <div class="known-item">
+                <div class="known-poster">
+                  <img src="https://image.tmdb.org/t/p/w342/dTe3EpJGnfUeR5swLbWv61iRyFc.jpg" alt="Gênio Indomável" onerror="this.style.display='none'">
+                </div>
+                <div class="known-title">Gênio Indomável</div>
+                <div class="known-year">1997</div>
+                <div class="known-rating">★ 4.0</div>
+              </div>
+              <div class="known-item">
+                <div class="known-poster">
+                  <img src="https://image.tmdb.org/t/p/w342/hMLxNLCXRDd62acfCBn6mIyW1HU.jpg" alt="O Resgate do Soldado Ryan" onerror="this.style.display='none'">
+                </div>
+                <div class="known-title">O Resgate do Soldado Ryan</div>
+                <div class="known-year">1998</div>
+                <div class="known-rating">★ 4.0</div>
+              </div>
+              <div class="known-item">
+                <div class="known-poster">
+                  <img src="https://image.tmdb.org/t/p/w342/6ricSDD83BClJsFdGB6x7cM0MFQ.jpg" alt="Interestelar" onerror="this.style.display='none'">
+                </div>
+                <div class="known-title">Interestelar</div>
+                <div class="known-year">2014</div>
+                <div class="known-rating">★ 3.5</div>
+              </div>
+              <div class="known-item">
+                <div class="known-poster">
+                  <img src="https://image.tmdb.org/t/p/w342/qtnAwzDapzOML4Q9p7lv2bk5gvz.jpg" alt="Os Infiltrados" onerror="this.style.display='none'">
+                </div>
+                <div class="known-title">Os Infiltrados</div>
+                <div class="known-year">2006</div>
+                <div class="known-rating">★ 3.5</div>
+              </div>
+              <div class="known-item">
+                <div class="known-poster">
+                  <img src="https://image.tmdb.org/t/p/w342/8OGQCOp6BxwvekhZBQCzVd77Y6l.jpg" alt="Air" onerror="this.style.display='none'">
+                </div>
+                <div class="known-title">Air</div>
+                <div class="known-year">2023</div>
+                <div class="known-rating">★ 3.0</div>
+              </div>
+              <div class="known-item">
+                <div class="known-poster">
+                  <img src="https://image.tmdb.org/t/p/w342/t8L9dqNMclXJHP0TesPsPS2RvB1.jpg" alt="Ford vs Ferrari" onerror="this.style.display='none'">
+                </div>
+                <div class="known-title">Ford vs Ferrari</div>
+                <div class="known-year">2019</div>
+                <div class="known-rating">★ 3.0</div>
+              </div>
+              <div class="known-item">
+                <div class="known-poster">
+                  <img src="https://image.tmdb.org/t/p/w342/1OsQJEoSXBjduuCvDOlRhoEUaHu.jpg" alt="Oppenheimer" onerror="this.style.display='none'">
+                </div>
+                <div class="known-title">Oppenheimer</div>
+                <div class="known-year">2023</div>
+                <div class="known-rating">★ 3.0</div>
+              </div>
+            </div>
+          </div>
+
+          <span class="tmdb">tmdbId: 18918</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="label">Visualização no editor (modo leitura) — Exemplo 2: Diretor</div>
+
+    <!-- ===== CARD DE DIRETOR ===== -->
+    <div class="callout">
+      <a class="logo" href="https://tnrapp.com" target="_blank" rel="noopener" title="TNR — Track 'n' Review">
+        <svg viewBox="0 0 128 128" role="img" aria-label="TNR">
+          <defs>
+            <linearGradient id="gLogoB" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0" stop-color="#c8553d"/>
+              <stop offset="1" stop-color="#5a2336"/>
+            </linearGradient>
+          </defs>
+          <rect width="128" height="128" fill="url(#gLogoB)"/>
+          <text x="64" y="76" font-family="-apple-system, 'Segoe UI', Arial, sans-serif" font-size="34" font-weight="800" fill="#fff" text-anchor="middle">TNR</text>
+        </svg>
+      </a>
+
+      <div class="card">
+        <div class="photo">
+          <img src="https://i.pravatar.cc/300?img=36" alt="Foto de Ridley Scott"
+               onerror="this.style.display='none'">
+        </div>
+
+        <div class="info">
+          <div class="title-line">
+            <span class="title">Ridley Scott</span>
+            <span class="dept">Direção</span>
+          </div>
+
+          <div class="meta">
+            <span class="k">Nascimento</span>
+            <span class="v">30/11/1937</span>
+            <span class="k">Local</span>
+            <span class="v">South Shields, Reino Unido</span>
+            <span class="k">Funções</span>
+            <span class="v">Diretor · Produtor</span>
+          </div>
+
+          <div class="bio">
+            Diretor britânico, criador de obras-primas da ficção científica como Alien e Blade Runner.
+            Cineasta prolífico por mais de quatro décadas, também responsável por Gladiador e Thelma &amp; Louise.
+            <span class="expand">Expandir</span>
+          </div>
+
+          <div class="mem-section">
+            <div class="mem-head">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+              </svg>
+              Na sua memória
+            </div>
+
+            <div class="mem-stats">
+              <div class="mem-stat">
+                <div class="big">14</div>
+                <div class="cap">filmes na memória</div>
+              </div>
+              <div class="mem-stat">
+                <div class="big good">
+                  <span class="stars" data-avg="2.4">
+                    ★★★★★
+                    <span class="fill">★★★★★</span>
+                  </span>
+                  2.4
+                </div>
+                <div class="cap">nota média</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="known">
+            <div class="known-label">Seus filmes na memória</div>
+            <div class="known-track">
+              <div class="known-item">
+                <div class="known-poster">
+                  <img src="https://image.tmdb.org/t/p/w342/rFHzJrkO1kNIezb6rFog5oCJUEn.jpg" alt="Alien" onerror="this.style.display='none'">
+                </div>
+                <div class="known-title">Alien</div>
+                <div class="known-year">1979</div>
+                <div class="known-rating">★ 5.0</div>
+              </div>
+              <div class="known-item">
+                <div class="known-poster">
+                  <img src="https://image.tmdb.org/t/p/w342/sGLv72iYI46tNldBSjYp4GIz1sw.jpg" alt="Ilha das Flores" onerror="this.style.display='none'">
+                </div>
+                <div class="known-title">Ilha das Flores</div>
+                <div class="known-year">1989</div>
+                <div class="known-rating">★ 5.0</div>
+              </div>
+              <div class="known-item">
+                <div class="known-poster">
+                  <img src="https://image.tmdb.org/t/p/w342/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg" alt="Duna: Parte Dois" onerror="this.style.display='none'">
+                </div>
+                <div class="known-title">Duna: Parte Dois</div>
+                <div class="known-year">2024</div>
+                <div class="known-rating">★ 5.0</div>
+              </div>
+              <div class="known-item">
+                <div class="known-poster">
+                  <img src="https://image.tmdb.org/t/p/w342/2UY2xfkgw9EgOOyA7ro3eyGJ9V9.jpg" alt="Napoleão" onerror="this.style.display='none'">
+                </div>
+                <div class="known-title">Napoleão</div>
+                <div class="known-year">2023</div>
+                <div class="known-rating">★ 1.0</div>
+              </div>
+            </div>
+          </div>
+
+          <span class="tmdb">tmdbId: 578</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="label">Markdown inserido no cursor (bloco <code>tnr</code>)</div>
+    <pre><span class="c">&gt;</span> [!tnr-person] **Matt Damon**
+<span class="c">&gt;</span> ![foto](https://image.tmdb.org/t/p/w185/8i7Xd4hf3WzvPYnXxQ0n5dfVrqY.jpg)
+<span class="c">&gt;</span>
+<span class="c">&gt;</span> **Departamento:** Atuação
+<span class="c">&gt;</span> **Nascimento:** 08/10/1970
+<span class="c">&gt;</span> **Local:** Cambridge, EUA
+<span class="c">&gt;</span> **Funções:** Ator · Roteirista
+<span class="c">&gt;</span>
+<span class="c">&gt;</span> **Na sua memória:** 23 filmes · nota média ★ 2.5
+<span class="c">&gt;</span>
+<span class="c">&gt;</span> Ator e roteirista americano, vencedor do Oscar de Melhor Roteiro Original por Gênio Indomável...
+<span class="c">&gt;</span>
+<span class="c">&gt;</span> `tmdbId: 18918`</pre>
+
+    <div class="note">
+      <strong>Viabilidade — confirmada.</strong> As duas estatísticas saem do <code>memories.json</code> da pasta do
+      perfil (somente leitura): para a pessoa em questão, conta-se os registros cujo <code>titleRef</code> a inclui
+      em <code>castNames</code>, <code>director</code> ou <code>writerNames</code>; a nota média usa o campo
+      <code>rating</code> (0.5 a 5.0) desses registros, ignorando memórias sem nota. Ex.: Matt Damon → 23 filmes,
+      média 2.5; Ridley Scott → 14 filmes, média 2.4. Tudo roda localmente na pasta do plugin: o card é renderizado
+      pelo mesmo processador de bloco <code>tnr</code> já existente em <code>src/card.ts</code>, os dados de perfil vêm
+      de <code>src/settings/settings.ts</code> (<code>profilePath</code>) e a foto/biografia viriam do TMDB
+      (<code>/person/{id}</code>) usando o token que o plugin já usa. Nenhum servidor ou instalação extra.
+      <em>Se a foto não carregar (sem internet), o círculo mostra o gradiente de fallback.</em>
+    </div>
+  </div>
+
+  <script>
+    function toggleTheme() {
+      const root = document.documentElement;
+      root.dataset.theme = root.dataset.theme === "dark" ? "light" : "dark";
+    }
+
+    (function () {
+      document.querySelectorAll(".stars").forEach((el) => {
+        const avg = parseFloat(el.dataset.avg || "0");
+        const pct = Math.min(100, Math.max(0, (avg / 5) * 100));
+        el.querySelector(".fill").style.width = pct + "%";
+      });
+    })();
+  </script>
+</body>
+</html>
